@@ -1,7 +1,7 @@
 <p align="center"><a href="http://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
-# All in One AResources
+# All in One Resources
 
 > <Subtitle>
 > This repo is a one stop solution for learning various domains. You can find roadmap for any framework here.
