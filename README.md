@@ -17,7 +17,7 @@
 |--------|------|
 | HTML, CSS, JS|      |
 |ReactJs|      |
-|Flutter|      |    
+|Flutter|[Link](./Frontend/FLUTTER.md)|    
 |AngularJs|      |    
 |VueJs|      |    
 
