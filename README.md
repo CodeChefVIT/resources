@@ -49,7 +49,6 @@
 ### Machine Learning
 | Domain | Link |
 |--------|------|
-|ML|[Link](./ML/MachineLearning.md)|
-|Deep Learning| |
-|Natural Language Processing| |
-|Recommendation Systems| |
+|ML and Deep Learning|[Link](./ML/MachineLearning.md)|
+
+
