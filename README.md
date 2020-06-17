@@ -25,7 +25,7 @@
 
 | Domain | Link |
 |--------|------|
-|NodeJs|     |
+|NodeJs|     | 
 |Django|     |
 |Flask |     |
 |Deno  |     |
@@ -49,7 +49,6 @@
 ### Machine Learning
 | Domain | Link |
 |--------|------|
-|ML| |
-|Deep Learning| |
-|Natural Language Processing| |
-|Recommendation Systems| |
+|ML and Deep Learning|[Link](./ML/MachineLearning.md)|
+
+
