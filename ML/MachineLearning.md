@@ -10,8 +10,7 @@ For learning deep, advanced concepts of ML and become a expert, you can go with 
 
 ## Deep Learning
 
-For a complete insights into deep learning, you can also go with [this]
-(https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/?utm_campaign=ROW-FB-DRT-Visitor-Evergreen-IN-Smartly-EN-IND_._ci__._sl_IND_._vi__._sd_All_._la_EN_._&utm_content=_._pd_2373842_._&utm_medium=udemyads&utm_source=facebook&utm_term=_._ag_in_3_day_visitors_._ad_6202619827888_._) paid udemy course.
+For a complete insights into deep learning, you can also go with [this](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/?utm_campaign=ROW-FB-DRT-Visitor-Evergreen-IN-Smartly-EN-IND_._ci__._sl_IND_._vi__._sd_All_._la_EN_._&utm_content=_._pd_2373842_._&utm_medium=udemyads&utm_source=facebook&utm_term=_._ag_in_3_day_visitors_._ad_6202619827888_._) paid udemy course.
 
 ## Topics to Cover
 
