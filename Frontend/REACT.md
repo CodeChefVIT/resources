@@ -23,7 +23,7 @@ Follow either the [Official Docs](https://reactjs.org/docs/getting-started.html)
 |3.|State Management|
 |4.|DOM Events|
 |5.|Forms|
-|6.|Nestin Components|
+|6.|Nested Components|
 |7.|Props|
 |8.|Outputting Lists|
 |9.|Stateless Components|

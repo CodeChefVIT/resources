@@ -15,34 +15,36 @@ Follow either the [Official Docs](https://vuejs.org/v2/guide/) or [The Net Ninja
 |S.No.|Topic|
 |----|-----|
 |1.|Setup|
-|2.|Components|
-|3.|State Management|
-|4.|DOM Events|
-|5.|Forms|
-|6.|Nestin Components|
-|7.|Props|
-|8.|Outputting Lists|
-|9.|Stateless Components|
-|10.|Conditional Outputs|
-|11.|Functions as Props|
-|12.|Deleting Data|
-|13.|Virtual DOM|
-|14.|CSS Files|
-|15.|Lifecycle Methods|
-|16.|Router|
-|17.|Redirects|
-|18.|Higher Order Components|
-|19.|Axios|
-|20.|Route Parameters|
-|21.|Switch Tag|
-|22.|Importing Images|
-|23.|Redux|
-|24.|Redux Stores, Actions, Reducers|
-|25.|Store Subscriptions|
-|26.|Mapping State to Props|
-|27.|Mapping Dispatch to Props|
-|28.|Action Creators|
-|29.|Deployment on Netlify|
+|2.|Vue Instance|
+|3.|Data & Methods|
+|4.|Data Binding|
+|5.|Events|
+|6.|Event Modifiers|
+|7.|Keyboard Events|
+|8.|Two-Way Binding|
+|9.|Computed Properties|
+|10.|Dynamic CSS|
+|11.|Conditionals|
+|12.|Looping with v-for|
+|13.|Multiple Vue Instances|
+|14.|Components|
+|15.|Refs|
+|16.|Vue CLI|
+|17.|Component CSS|
+|18.|Nested Components|
+|19.|Props|
+|20.|Primitive vs Ref Types|
+|21.|Events & Event Bus|
+|22.|Lifecycle Hooks|
+|23.|Slots|
+|24.|Dynamic Components|
+|25.|Binding: Checkbox, Select, Input|
+|26.|HTTP Requests|
+|27.|Custom Directives|
+|28.|Filters|
+|29.|Mixins|
+|30.|Routing|
+|31.|Deployment on Netlify|
 
 Follow the [Vue CLI 3 Series on The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iCKx06qSncuvEPZ7x1UnKD) after the playlist linked above.
 
