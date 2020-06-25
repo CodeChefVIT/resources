@@ -6,8 +6,6 @@
 > <Subtitle>
 > Want to learn something new but can't find resources to learn? This repository will take care of all your learning needs.
 
-Please give a :star: to show your support if you like this repository :wink:
-
 ---
 
 ## Frontend
@@ -54,3 +52,6 @@ Please give a :star: to show your support if you like this repository :wink:
 |ML|[Link](./ML/MachineLearning.md)|
 |DL|[Link](./ML/DeepLearning.md)|
 
+<hr>
+
+Please give a :star: to show your support if you like this repository :wink:
