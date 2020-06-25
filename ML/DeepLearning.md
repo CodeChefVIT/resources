@@ -2,7 +2,6 @@
 <br>
 <p align="center"><img src="https://i.ibb.co/zmzrhYY/https-blogs-images-forbes-com-bernardmarr-files-2018-10-Adobe-Stock-179912599-1-1200x797.jpg" height="220"></p>
 <br>
-<br>
 
 Deep Learning is an Artificial Intelligence function that imitates the workings of the human brain in processing data and creating patterns for use in decision making. DL is a subset of ML in AI that has networks capable of learning unsupervised from data that is unstructured or unlabeled, also known as deep neural learning or deep neural network.
 

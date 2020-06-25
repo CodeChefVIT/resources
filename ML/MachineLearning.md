@@ -2,7 +2,6 @@
 <br>
 <p align="center"><img src="https://i.ibb.co/nQVg933/machine-learning.jpg" height="220"></p>
 <br>
-<br>
 
 Machine Learning is the study of computer algorithms that improve automatically through experience.
 

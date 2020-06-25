@@ -2,7 +2,6 @@
 <br>
 <p align="center"><img src="https://miro.medium.com/max/1400/1*3T7J7csXY8u36acofw5N8g.jpeg" height="220"></p>
 <br>
-<br>
 
 Web Dev has two subparts- the Frontend and the Backend of the website. Frontend is what you see in a browser whereas Backend (which cannot be seen) handles the logic and functionality that is necessary for everything to work :computer:
 

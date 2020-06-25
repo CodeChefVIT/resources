@@ -1,5 +1,7 @@
 # Android  
 <p align="center"><img src="https://i.ibb.co/7nNnSrN/android-developers.png" height="240"></p>
+<br>
+
 Android Studio provides the fastest tools for building apps on every type of Android device.  
 
 ## Get Android Studio  

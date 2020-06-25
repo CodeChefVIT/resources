@@ -2,7 +2,6 @@
 <br>
 <p align="center"><img src="https://i.ibb.co/7NLMPr0/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" height="120"></p>
 <br>
-<br>
 
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for [mobile](https://flutter.dev/docs), [web](https://flutter.dev/web), and [desktop](https://flutter.dev/desktop) from a single codebase.
 

@@ -2,7 +2,6 @@
 <br>
 <p align="center"><img src="https://i.ibb.co/wswH7fR/React-JS.png" height="220"></p>
 <br>
-<br>
 
 React.js is an open-source JavaScript library by Facebook that is used for building user interfaces specifically for single-page applications. It’s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. 
 
