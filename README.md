@@ -14,8 +14,8 @@
 |--------|------|
 |Web Basics|[Link](./Frontend/WEB.md)|
 |ReactJS|[Link](./Frontend/REACT.md)|
-|AngularJS|      |    
-|VueJS|      |   
+|AngularJS||    
+|VueJS|[Link](./Frontend/VUEJS.md)|   
 |Flutter|[Link](./Frontend/FLUTTER.md)|    
 |Android|[Link](./Frontend/ANDROID-STUDIO.md)|
 
