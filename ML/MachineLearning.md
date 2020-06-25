@@ -21,7 +21,7 @@ For learning deep, advanced concepts of ML and become an expert, you can go ahea
 * Pandas and Numpy for Data Pre-Processing and Analysis. 
 * Matplotlib and Seaborn for Data Visualization. 
 * Sklearn to implement Machine Learning Models. 
-* Error measurement and Scaling techniques
+* Error Measurement and Scaling techniques.
 * All methods and techniques mentioned are listed below: 
 ```
 
