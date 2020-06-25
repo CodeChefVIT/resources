@@ -48,7 +48,7 @@ For learning deep concepts of flutter and become a flutter expert, you can go wi
 
 ## Google is Not Your Friend
 
-Just Joking! Google is indeed your friend but for flutter developers, there is a better platform - [pub.dev](). You can great range of pre-built packages and plugins which can be used in your code to make your work easy. 
+Just Kidding! Google is indeed your friend but for flutter developers, there is a better platform - [pub.dev](). You can great range of pre-built packages and plugins which can be used in your code to make your work easy. 
 
 Whatever design you wanna make or any functionality you wanna implement which seems difficult will surely be possible using this.
 
@@ -56,8 +56,8 @@ pub.dev is a platform where you don't only get code, but you can also contribute
 
 ## Some Cool Stuff
 
-* [Click Here to explore](https://instagram.com/flutter.master?igshid=6nvtnwsxu7gx)
-* [Click Here ro explore](https://fluttermaster.com)
+* [Click Here to Explore](https://instagram.com/flutter.master?igshid=6nvtnwsxu7gx)
+* [Click Here to Explore](https://fluttermaster.com)
 * Online Compiler - [Click Here](https://dartpad.dev/flutter)
 * CodePen Support - [Click Here](https://codepen.io/topic/flutter/templates)
 
@@ -70,13 +70,13 @@ In addition to mobile apps, Flutter supports the generation of web content rende
 
 ## Getting Started
 
-Well, if you have gone through the above content, you already know how to make a website as well because Flutter uses exactly same codebase to render a functional Web App as well.
+If you have gone through the above content, you already know how to make a website using Flutter because Flutter uses exactly the same codebase to render a functional WebApp as well.
 
 ## Some Differences
 
 Though Flutter Web uses same codebase, but some things are handled differently in a Web App like routing, etc. Simple tutorials for these things can be found [here](https://www.youtube.com/watch?v=33kyEzDMTZU&list=PLdTodMosi-Bxf___3xPh3_NS-on4dc0sJ).
 
-## Deploying Flutter Web App
+## Deploying Flutter WebApps
 
 Flutter Web sometimes seems quite tedious to deploy on a web server, but [Netlify](https://www.netlify.com) has got you covered.
 

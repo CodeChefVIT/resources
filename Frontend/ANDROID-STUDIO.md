@@ -1,16 +1,19 @@
 # Android  
-<p align="center"><img src="https://developer.android.com/images/social/android-developers.png" height="240"></p>
+<p align="center"><img src="https://i.ibb.co/7nNnSrN/android-developers.png" height="240"></p>
 Android Studio provides the fastest tools for building apps on every type of Android device.  
 
-### Get Android Studio  
+## Get Android Studio  
 To get the latest verion of Android Studio, follow [these](https://developer.android.com/studio) steps.  
 
-### Getting Started
-Get to learn the ropes of being an Android Developer by following [this](https://www.youtube.com/playlist?list=PLp9HFLVct_ZvMa7IVdQyUUyh8t2re9apm) basic course.  
-(PS The first video is highly recomended the rest is good if you like highly detailed and long instructions)  
+## Getting Started
+Get to learn the ropes of being an Android Developer by going through [this](https://www.youtube.com/playlist?list=PLp9HFLVct_ZvMa7IVdQyUUyh8t2re9apm) basic course. 
+
+P.S: The first video is highly recomended to be watched. The rest is optional and can be watched if you want highly detailed instructions.  
 For Step-by-Step instructions follow [this](https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html?index=..%2F..%2Fandroid-training#0).  
 
-### Major Topics  
+<hr>
+
+## Major Topics  
 |Topic|Link|
 |--------|------|
 |Activities and Intents|[Link](https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html?index=..%2F..%2Fandroid-training#0)|
@@ -38,8 +41,7 @@ For Step-by-Step instructions follow [this](https://codelabs.developers.google.c
 |Animations|[Link](https://codelabs.developers.google.com/codelabs/advanced-android-training-animations/index.html?index=..%2F..advanced-android-training#0)|
 |Video Views|[Link](https://codelabs.developers.google.com/codelabs/advanced-android-training-video-view/index.html?index=..%2F..advanced-android-training#0)|
 
-
-### Testing and Debugging  
+## Testing and Debugging  
 |Topic|Link|
 |--------|-------|
 |Logcat|[Link](https://codelabs.developers.google.com/codelabs/android-training-using-debugger/index.html?index=..%2F..%2Fandroid-training#0)|
@@ -47,17 +49,19 @@ For Step-by-Step instructions follow [this](https://codelabs.developers.google.c
 |App Compatability|[Link](https://codelabs.developers.google.com/codelabs/android-training-support-libraries/index.html?index=..%2F..%2Fandroid-training#0)|
 |UI Testing|[Link](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html?index=..%2F..%2Fandroid-training#0)|
 
-### Exploring  
+<hr>
+
+## Exploring  
 Here are a few starter apps that you can explore and learn from:  
 - [Basic Apps](https://github.com/google-developer-training/android-fundamentals)  
 - [Intermediate Apps](https://github.com/google-developer-training/android-fundamentals-starter-apps-v2)  
 - [Advanced Apps](https://github.com/google-developer-training/android-advanced-starter-apps)  
 
-### What Next?  
-Well, Android is a constantly changing software, every new release adds a few new features that make things simpler, or remove some things that were possible before,
-so the best thing to do is to go with the flow. **Stackoverflow** has a really active comunity of developers, use this to your advantage and any new problem you face might 
-have already been solved by someone else and posted there. So if you face any issues don't be discouraged and just google it, if there is no current solution that you 
-find, post it on a platform like Stackoverflow and someone will eventually find a solution.  
+## What Next?  
+Android is a constantly changing software, every new release adds a few new features that make things simpler, or remove some things that were possible before so the best thing to do is to go with the flow. 
+
+**Stack Overflow** has a really active community of developers. Use this to your advantage. Any new problem you face might 
+have already been solved by someone else there. So, if you face any issues don't be discouraged and just Google it and if there is no solution that you can find, post it on a platform like Stack Overflow and someone will eventually find a solution.  
 
 Checkout [Android Arsnel](https://android-arsenal.com/) for cool tools and frameworks that you can integrate with your apps.
 

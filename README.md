@@ -1,55 +1,56 @@
-<p align="center"><a href="http://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
+<p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
-# All in One Resources
+# Resource Bank
 
 > <Subtitle>
-> This repo is a one stop solution for learning various domains. You can find roadmap for any framework here.
+> Want to learn something new but can't find resources to learn? This repository will take care of all your learning needs.
+
+Please give a :star: to show your support if you like this repository :wink:
 
 ---
 
-
-## Webinars
-
-### Frontend
+## Frontend
 
 | Domain | Link |
 |--------|------|
-| HTML, CSS, JS|      |
-|ReactJs|      |
+| HTML, CSS, JS|[Link](./Frontend/WEB.md)|
+|ReactJS|      |
+|AngularJS|      |    
+|VueJS|      |   
 |Flutter|[Link](./Frontend/FLUTTER.md)|    
-|AngularJs|      |    
-|VueJs|      |   
 |Android|[Link](./Frontend/ANDROID-STUDIO.md)|
 
-### Backend
+## Backend
 
 | Domain | Link |
 |--------|------|
-|NodeJs|     | 
-|Django|     |
-|Flask |     |
 |Deno  |     |
+|Django|     |
+|Firebase|     |
+|Flask |     |
+|NodeJs|     |
 
-### Devops
+## DevOps
 
 | Domain | Link |
 |--------|------|
-|Docker| |
-|Kubernetes| |
 |Ansible| |
+|Docker| |
 |Jenkins| |
+|Kubernetes| |
 
-### Cloud Computing
+## Cloud Computing
 
 | Domain | Link |
 |--------|------|
 |AWS| |
+|Azure| |
 |Heroku| |
 
-### Machine Learning
+## Machine Learning
 | Domain | Link |
 |--------|------|
-|ML and Deep Learning|[Link](./ML/MachineLearning.md)|
-
+|ML|[Link](./ML/MachineLearning.md)|
+|DL|[Link](./ML/DeepLearning.md)|
 
