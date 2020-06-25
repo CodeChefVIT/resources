@@ -5,16 +5,12 @@
 
 Vue is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
 
-## JSX :heart_eyes:
-
-In React, instead of using regular JavaScript for templating, it uses JSX. JSX is a simple JavaScript that allows HTML quoting and uses these HTML tag syntax to render subcomponents. HTML syntax is processed into JavaScript calls of React Framework. We can also write in pure old JavaScript.
-
-## Who uses React? :raising_hand:
-Facebook, Netflix, Instagram, Netlify, Dropbox and many more Tech Giants.
+## Who uses Vue? :raising_hand:
+Nintendo, Louis Vuitton, Google Careers, Adobe, BMW, Namecheap and many more Tech Giants.
 
 ## Topics to Cover :books:
 
-Follow either the [Official Docs](https://reactjs.org/docs/getting-started.html) or [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) or both and cover the following topics:
+Follow either the [Official Docs](https://vuejs.org/v2/guide/) or [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) or both and cover the following topics:
 
 |S.No.|Topic|
 |----|-----|
@@ -48,23 +44,22 @@ Follow either the [Official Docs](https://reactjs.org/docs/getting-started.html)
 |28.|Action Creators|
 |29.|Deployment on Netlify|
 
-Once you get familiar these, you can very well call yourself a React Developer. It's recommended you practice this on a few projects to ensure you understand everything.
+Follow the [Vue CLI 3 Series on The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iCKx06qSncuvEPZ7x1UnKD) after the playlist linked above.
+
+Once you get familiar these, you can very well call yourself a Vue Developer. It's recommended you practice this on a few projects to ensure you understand everything.
 
 ## Useful Chrome Extensions :muscle:
 |S.No.|Extension|
 |----|-----|
-|1.|[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)|
-|2.|[Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc)
+|1.|[Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc)
 
 
 ## Done? :disappointed_relieved:
-Not yet! Now that you've explored the React, you can either learn React Native or [Flutter](./FLUTTER.md) and start developing mobile apps. 
+Not yet! Now that you've explored Vue, you can either learn [React](./REACT.md) or [Flutter](./FLUTTER.md) to start developing mobile apps. 
 
 ### Why Flutter?
-Flutter and React have really similar State Management. A lot of other things also feel familiar so you won't really find it hard to learn Flutter.
-
-You could also explore [VueJS](./VUEJS.md) as it is pretty similar to React.
+Flutter and Vue have really similar State Management. A lot of other things also feel familiar so you won't really find it hard to learn Flutter.
 
 <hr>
 
-We hope you now know the roadmap to being a professional React Developer :v:
+We hope you now know the roadmap to being a professional Vue Developer :v:
