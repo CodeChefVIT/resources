@@ -12,7 +12,7 @@
 
 | Domain | Link |
 |--------|------|
-| HTML, CSS, JS|[Link](./Frontend/WEB.md)|
+|Web Basics|[Link](./Frontend/WEB.md)|
 |ReactJS|      |
 |AngularJS|      |    
 |VueJS|      |   

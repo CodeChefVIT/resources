@@ -26,7 +26,7 @@ For learning deep concepts of flutter and become a flutter expert, you can go wi
 
 ## Topics to Cover
 
-|S.No|Topic|Link|
+|S.No.|Topic|Link|
 |----|-----|----|
 |1.|Widgets|[Link](https://flutter.dev/docs/development/ui/widgets)<br>[Link](https://material.io/components)<br>[Link](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)|
 |2.|Basic Calculator App|[Link](https://youtu.be/Ss1HkZ3LnRY)|
