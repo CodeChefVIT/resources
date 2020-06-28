@@ -26,6 +26,8 @@
 |Deno  |     |
 |Django|[Link](./Backend/DJANGO.md)|
 |Firebase|     |
+|Django|     |
+|Firebase|[Link](./Backend/FIREBASE.md)|
 |Flask |     |
 |NodeJs|[Link](./Backend/NODEJS.md)|
 
