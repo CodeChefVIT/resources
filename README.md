@@ -24,10 +24,10 @@
 | Domain | Link |
 |--------|------|
 |Deno  |     |
-|Django|     |
+|Django|[Link](./Backend/DJANGO.md)|
 |Firebase|     |
 |Flask |     |
-|NodeJs|     |
+|NodeJs|[Link](./Backend/NODEJS.md)|
 
 ## DevOps
 
