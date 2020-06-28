@@ -25,7 +25,7 @@
 |--------|------|
 |Deno  |     |
 |Django|     |
-|Firebase|     |
+|Firebase|[Link](./Backend/FIREBASE.md)|
 |Flask |     |
 |NodeJs|     |
 
