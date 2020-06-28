@@ -37,7 +37,7 @@ For learning deep and clear concepts of node js, you can go with [this](https://
 |S.No.|Topic|Link|
 |----|-----|----|
 |1.|Environment setup|[Link](https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm)|
-|2.|How server works and creating your own server|[Link](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm <br> [Link](https://www.youtube.com/watch?v=YSyFSnisip0))|
+|2.|How server works and creating your own server|[Link](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm) <br> [Link](https://www.youtube.com/watch?v=YSyFSnisip0)|
 |3.|Life cycle and event loop|[Link](https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm) <br> [Link](https://www.youtube.com/watch?v=qZ_rLRsJ1tU)|
 |4.|Blocking and Non-Blocking Code|[Link](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)|
 |5.|Callbacks|[Link](https://www.youtube.com/watch?v=ui4-OADfgIk)|
