@@ -36,7 +36,7 @@ For learning deep and clear concepts of node js, you can go with [this](https://
 
 |S.No.|Topic|Link|
 |----|-----|----|
-|1.|Environment setup|[Link](https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm)
+|1.|Environment setup|[Link](https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm)|
 |2.|How server works and creating your own server|[Link](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm <br> [Link](https://www.youtube.com/watch?v=YSyFSnisip0))|
 |3.|Life cycle and event loop|[Link](https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm) <br> [Link](https://www.youtube.com/watch?v=qZ_rLRsJ1tU)|
 |4.|Blocking and Non-Blocking Code|[Link](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)|
@@ -52,7 +52,6 @@ For learning deep and clear concepts of node js, you can go with [this](https://
 |14.|Sessions, tokens and authentication|[Link](https://www.quora.com/What-is-a-session-in-a-Web-Application) <br> [Link](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) <br> [Link](https://github.com/expressjs/session) <br> [Link](https://www.youtube.com/watch?v=7nafaH9SddU&t=1238s)|
 |15.|Sending emails|[Link](https://nodemailer.com/about/) <br> [Link](https://sendgrid.com/docs/)|
 |16.|Uploading files|[Link](https://www.youtube.com/watch?v=srPXMt1Q0nY)|
-
 |17.|websockets & Socket.io|[Link](https://www.youtube.com/watch?v=jD7FnbI76Hg)|
 |18.|Deployment|[Link](https://devcenter.heroku.com/categories/reference)|
 |19.|Redis Caching|[Link](https://www.youtube.com/watch?v=oaJq1mQ3dFI)|
