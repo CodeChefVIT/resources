@@ -1,6 +1,6 @@
 # Docker Resources
 
-<img  width="100" height="100" src="images/docker.jpg">
+<img height="100" src="https://i.ibb.co/XZrfgDV/docker.jpg">
 
 This Repository contains resources for working with Docker
 

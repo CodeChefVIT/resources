@@ -23,20 +23,18 @@
 
 | Domain | Link |
 |--------|------|
-|Deno  |     |
+|Deno|[Link](./Backend/DENO.md)|
 |Django|[Link](./Backend/DJANGO.md)|
-|Firebase|     |
-|Django|     |
 |Firebase|[Link](./Backend/FIREBASE.md)|
-|Flask |     |
+|Flask|     |
 |NodeJs|[Link](./Backend/NODEJS.md)|
 
 ## DevOps
 
 | Domain | Link |
 |--------|------|
-|Ansible| |
-|Docker| |
+|Ansible|[Link](./DevOps/Ansible.md)|
+|Docker|[Link](./DevOps/Docker.md)|
 |Jenkins| |
 |Kubernetes| |
 

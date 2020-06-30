@@ -1,6 +1,6 @@
 # Ansible Resources
 
-<img  width="100" height="100" src="images/ansi.png">
+<img  width="100" height="100" src="https://i.ibb.co/h8nHJtF/ansi.png">
 
 This Repository contains basic resources to get started with Ansible  :computer:
 
