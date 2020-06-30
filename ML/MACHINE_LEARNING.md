@@ -9,9 +9,12 @@ Machine Learning is the study of computer algorithms that improve automatically 
 
 For starting ML from right from basics, setting everything up and getting an idea about various things, you can follow [this](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) crash course video by Academind.
 
-## Complete Udemy Course
+## Complete  Courses
 
-For learning deep, advanced concepts of ML and become an expert, you can go ahead with [this](https://www.udemy.com/course/machinelearning/) paid course on Udemy.
+- For learning deep, advanced concepts of ML and become an expert, you can go ahead with [this](https://www.udemy.com/course/machinelearning/) paid course on Udemy.
+
+- [Build Machine Learning Projects](https://www.eduonix.com/learn-machine-learning-by-building-projects)
+- [Machine Learning for Absolute Beginners](https://www.eduonix.com/machine-learning-for-absolute-beginners)
 
 # Diving Deep
 

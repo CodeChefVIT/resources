@@ -5,9 +5,12 @@
 
 Deep Learning is an Artificial Intelligence function that imitates the workings of the human brain in processing data and creating patterns for use in decision making. DL is a subset of ML in AI that has networks capable of learning unsupervised from data that is unstructured or unlabeled, also known as deep neural learning or deep neural network.
 
-## Complete Udemy Course
+## Complete  Courses
 
-For learning deep, advanced concepts of DL and becoming an expert, you can go ahead with [this](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/?utm_campaign=ROW-FB-DRT-Visitor-Evergreen-IN-Smartly-EN-IND_._ci__._sl_IND_._vi__._sd_All_._la_EN_._&utm_content=_._pd_2373842_._&utm_medium=udemyads&utm_source=facebook&utm_term=_._ag_in_3_day_visitors_._ad_6202619827888_._) paid course on Udemy.
+- For learning deep, advanced concepts of DL and becoming an expert, you can go ahead with [this](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/?utm_campaign=ROW-FB-DRT-Visitor-Evergreen-IN-Smartly-EN-IND_._ci__._sl_IND_._vi__._sd_All_._la_EN_._&utm_content=_._pd_2373842_._&utm_medium=udemyads&utm_source=facebook&utm_term=_._ag_in_3_day_visitors_._ad_6202619827888_._) paid course on Udemy.
+
+- [TensorFlow for Beginners](https://www.eduonix.com/tensorflow-for-beginners)
+- [CNN for Computer Vision with Keras and TensorFlow in Python](https://www.eduonix.com/cnn-for-computer-vision-with-keras-and-tensorflow-in-python)
 
 # Diving Deep
 
