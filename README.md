@@ -10,49 +10,50 @@
 
 ## Frontend
 
-| Domain | Link |
-|--------|------|
-|Web Basics|[Link](./Frontend/WEB.md)|
-|ReactJS|[Link](./Frontend/REACT.md)|
-|AngularJS||    
-|VueJS|[Link](./Frontend/VUEJS.md)|   
-|Flutter|[Link](./Frontend/FLUTTER.md)|    
-|Android|[Link](./Frontend/ANDROID-STUDIO.md)|
+| Domain     | Link                                 |
+| ---------- | ------------------------------------ |
+| Web Basics | [Link](./Frontend/WEB.md)            |
+| ReactJS    | [Link](./Frontend/REACT.md)          |
+| AngularJS  |                                      |
+| VueJS      | [Link](./Frontend/VUEJS.md)          |
+| Flutter    | [Link](./Frontend/FLUTTER.md)        |
+| Android    | [Link](./Frontend/ANDROID-STUDIO.md) |
 
 ## Backend
 
-| Domain | Link |
-|--------|------|
-|Deno  |     |
-|Django|[Link](./Backend/DJANGO.md)|
-|Firebase|     |
-|Django|     |
-|Firebase|[Link](./Backend/FIREBASE.md)|
-|Flask |     |
-|NodeJs|[Link](./Backend/NODEJS.md)|
+| Domain   | Link                          |
+| -------- | ----------------------------- |
+| Deno     | [Link](./Backend/DENO.md)     |
+| Django   | [Link](./Backend/DJANGO.md)   |
+| Firebase |                               |
+| Django   | [Link](./Backend/DJANGO.md)   |
+| Firebase | [Link](./Backend/FIREBASE.md) |
+| Flask    |                               |
+| NodeJs   | [Link](./Backend/NODEJS.md)   |
 
 ## DevOps
 
-| Domain | Link |
-|--------|------|
-|Ansible| |
-|Docker| |
-|Jenkins| |
-|Kubernetes| |
+| Domain     | Link                        |
+| ---------- | --------------------------- |
+| Ansible    | [Link](./DEVOPS/ANSIBLE.md) |
+| Docker     | [Link](./DEVOPS/DOCKER.md)  |
+| Jenkins    |                             |
+| Kubernetes |                             |
 
 ## Cloud Computing
 
 | Domain | Link |
-|--------|------|
-|AWS| |
-|Azure| |
-|Heroku| |
+| ------ | ---- |
+| AWS    |      |
+| Azure  |      |
+| Heroku |      |
 
 ## Machine Learning
-| Domain | Link |
-|--------|------|
-|ML|[Link](./ML/MachineLearning.md)|
-|DL|[Link](./ML/DeepLearning.md)|
+
+| Domain | Link                             |
+| ------ | -------------------------------- |
+| ML     | [Link](./ML/MACHINE_LEARNING.md) |
+| DL     | [Link](./ML/DEEP_LEARNING.md)    |
 
 <hr>
 
