@@ -21,16 +21,13 @@
 
 ## Backend
 
-<<<<<<< HEAD
 | Domain   | Link                          |
 | -------- | ----------------------------- |
+| NodeJs   | [Link](./Backend/NODEJS.md)   |
+| Django   | [Link](./Backend/DJANGO.md)   |
 | Deno     | [Link](./Backend/DENO.md)     |
-| Django   | [Link](./Backend/DJANGO.md)   |
-| Firebase |                               |
-| Django   | [Link](./Backend/DJANGO.md)   |
 | Firebase | [Link](./Backend/FIREBASE.md) |
 | Flask    |                               |
-| NodeJs   | [Link](./Backend/NODEJS.md)   |
 
 ## DevOps
 
@@ -40,24 +37,6 @@
 | Docker     | [Link](./DEVOPS/DOCKER.md)  |
 | Jenkins    |                             |
 | Kubernetes |                             |
-=======
-| Domain | Link |
-|--------|------|
-|Deno|[Link](./Backend/DENO.md)|
-|Django|[Link](./Backend/DJANGO.md)|
-|Firebase|[Link](./Backend/FIREBASE.md)|
-|Flask|     |
-|NodeJs|[Link](./Backend/NODEJS.md)|
-
-## DevOps
-
-| Domain | Link |
-|--------|------|
-|Ansible|[Link](./DevOps/Ansible.md)|
-|Docker|[Link](./DevOps/Docker.md)|
-|Jenkins| |
-|Kubernetes| |
->>>>>>> 2d4daed03c74846fe146332682de2543dd9ff1d9
 
 ## Cloud Computing
 
