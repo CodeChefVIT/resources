@@ -28,3 +28,42 @@ Follow either the [Official Docs](https://docs.djangoproject.com/en/3.0/) or [Te
 |10.|Generic Views|
 |11.|Static Files|
 |12.|Customizing the Admin Site|
+
+### Django Rest Framework (Rest APIs)
+
+Follow either the [Official Docs](https://www.django-rest-framework.org/) or [Edureka](https://www.youtube.com/watch?v=ejJ-2oz4AgI) or both and cover the following topics:
+
+|S.No.|Topic|
+|----|-----|
+|1.|What is an API?|
+|2.|DRF Installation|
+|3.|Requests and Response|
+|4.|Serialization|
+|5.|Class Based Views, Generic Views|
+|6.|Viewsets and Routers|
+|7.|Authentication and Permissions|
+|8.|Parsers and Renderers|
+|9.|Catching and Throtling|
+|10.|Filtering|
+|11.|Status Codes|
+|12.|Settings|
+|13.|CSRF and CORS|
+
+Once you get familiar these, you can very well call yourself a Django Developer. It's recommended you practice this on a few projects to ensure you understand everything.
+
+
+## Done? :disappointed_relieved:
+Not yet! Now that you've learned the basics of Django Rest Framework, you can integrate some packages to your Django Project for User Auntentication.
+
+|S.No.|Link|Use
+|-----|----|---|
+|1.|[Djoser](https://pypi.org/project/djoser/)|Complete Authentication System|
+|2.|[Django Rest Framework - JWT](https://pypi.org/project/djangorestframework-jwt/)|Json Web Token support for authentication|
+
+
+### Now lets deploy :muscle:
+Buit your Project? Now lets deploy thrm on [Heroku](https://devcenter.heroku.com/categories/working-with-django)
+
+<hr>
+
+We hope you now know the roadmap to being a professional Django Developer :v:
