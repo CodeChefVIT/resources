@@ -62,7 +62,7 @@ Not yet! Now that you've learned the basics of Django Rest Framework, you can in
 
 
 ### Now lets deploy :muscle:
-Buit your Project? Now lets deploy thrm on [Heroku](https://devcenter.heroku.com/categories/working-with-django)
+Built your Project? Now lets deploy thrm on [Heroku](https://devcenter.heroku.com/categories/working-with-django)
 
 <hr>
 
