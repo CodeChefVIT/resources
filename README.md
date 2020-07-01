@@ -27,16 +27,16 @@
 | Django   | [Link](./Backend/DJANGO.md)   |
 | Deno     | [Link](./Backend/DENO.md)     |
 | Firebase | [Link](./Backend/FIREBASE.md) |
-| Flask    |                               |
+| Flask    | [Link](./Backend/FLASK.md)    |
 
 ## DevOps
 
-| Domain     | Link                        |
-| ---------- | --------------------------- |
-| Ansible    | [Link](./DEVOPS/ANSIBLE.md) |
-| Docker     | [Link](./DEVOPS/DOCKER.md)  |
-| Jenkins    |                             |
-| Kubernetes |                             |
+| Domain     | Link                           |
+| ---------- | ------------------------------ |
+| Ansible    | [Link](./DevOps/ANSIBLE.md)    |
+| Docker     | [Link](./DevOps/DOCKER.md)     |
+| Kubernetes | [Link](./DevOps/Kubernetes.md) |
+| Jenkins    |                                |
 
 ## Cloud Computing
 
