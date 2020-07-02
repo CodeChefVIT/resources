@@ -6,9 +6,10 @@
 <br>
 
 Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+
 Download Deno from [here](https://deno.land) and get started.
 
-### Key Features
+## Key Features :star:
 
 * Asynchronous and Event Driven
 * Faster than Node
@@ -18,18 +19,19 @@ Download Deno from [here](https://deno.land) and get started.
 * Decentralized libraries
 
 
-## Basic Crash Course
-For starting with basics, setting it up and get an idea about various things, you can follow this crash course on Youtube
+## Basic Crash Course :pen:
 
-* [link1](https://www.youtube.com/watch?v=NHHhiqwcfRM)
+For starting with basics, setting it up and get an idea about various things, you can follow this crash course on YouTube:
 
-## Complete Udemy Course 
+* [Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
 
-For learning deep and clear concepts of Deno, you can go with [this](https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery) paid course.
+## Complete Udemy Course :book:
+
+For learning deep and clear concepts of Deno, you can refer [this](https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery) paid Udemy course.
 
 
 
-## Topics to Cover
+## Topics to Cover :books:
 
 |S.No.|Topic|Link|
 |----|-----|----|
@@ -38,7 +40,7 @@ For learning deep and clear concepts of Deno, you can go with [this](https://www
 |3.|Http Server & std lib|[Link](https://www.youtube.com/watch?v=5_uf9cbtIyE)| 
 |4.|3rd party modules|[Link](https://www.youtube.com/watch?v=yv1Nl9N5ur4)|
 |5.|API|[Link](https://www.youtube.com/watch?v=XJ9PUWJYQp0&t=4s)|
-|6.|PostGres Sql|[Link](https://www.youtube.com/watch?v=KuaI6mphFNc)|
+|6.|PostGres SQL|[Link](https://www.youtube.com/watch?v=KuaI6mphFNc)|
 |7.|Oak framework|[Link](https://github.com/oakserver/oak) <br> [Link](https://www.youtube.com/watch?v=BAu7fnCbxAs)|
 |8.|Docker|[Link](https://www.youtube.com/watch?v=4EfnECkCx8E)|
 |9.|MongoDB|[Link](https://www.youtube.com/watch?v=TMPBEkfIPWk) <br> [Link](https://deno.land/x/mongo)|
@@ -49,4 +51,10 @@ For learning deep and clear concepts of Deno, you can go with [this](https://www
 |14.|Deployment|[Link](https://devcenter.heroku.com/categories/reference)|
 
 
-<h3>NOTE: (as of 30-06-2020) Deno is still in its development phase, many libraries are still unstable. Please go through the deno docs once. </h3>
+```
+As of 30/06/2020, Deno is still in its development phase and many libraries are still unstable.
+```
+
+<hr>
+
+We hope you now know the roadmap to being a professional Deno Developer :v:

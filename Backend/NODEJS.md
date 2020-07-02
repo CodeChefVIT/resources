@@ -8,7 +8,7 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
 
 Download Node JS from [here](https://nodejs.org/en/download/) and get started. 
 
-## Key Features of Node.js
+## Key Features of Node.js :star:
 
 * Asynchronous and Event Driven
 * Very Fast
@@ -21,14 +21,14 @@ Download Node JS from [here](https://nodejs.org/en/download/) and get started.
 
 eBay, General Electric, GoDaddy, Microsoft, PayPal, Uber, Wikipins, Yahoo, and Yammer and many more Tech Giants. 
 
-## Basic Crash Course
+## Basic Crash Course :pen:
 
-For starting Node.js right from basics, setting it up and get an idea about various things, you can follow these video tutorials
+For starting Node.js right from basics, setting it up and get an idea about various things, you can follow these video tutorials:
 
 * [Basics of Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [REST APIs](https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
 
-## Complete Udemy Course
+## Complete Udemy Course :book:
 
 For learning deep and clear concepts of node js, you can go with [this](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) paid course. 
 

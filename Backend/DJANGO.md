@@ -10,7 +10,7 @@ Facebook, Spotify, Instagram, Dropbox, Mozilla, Pinterest and many more Tech Gia
 
 ## Topics to Cover :books:
 
-### Templating (Django Basics)
+### Templating (Django Basics):
 
 Follow either the [Official Docs](https://docs.djangoproject.com/en/3.0/) or [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) or both and cover the following topics:
 
@@ -29,7 +29,7 @@ Follow either the [Official Docs](https://docs.djangoproject.com/en/3.0/) or [Te
 |11.|Static Files|
 |12.|Customizing the Admin Site|
 
-### Django Rest Framework (Rest APIs)
+### Django Rest Framework (Rest APIs):
 
 Follow either the [Official Docs](https://www.django-rest-framework.org/) or [Edureka](https://www.youtube.com/watch?v=ejJ-2oz4AgI) or both and cover the following topics:
 
@@ -53,16 +53,16 @@ Once you get familiar these, you can very well call yourself a Django Developer.
 
 
 ## Done? :disappointed_relieved:
-Not yet! Now that you've learned the basics of Django Rest Framework, you can integrate some packages to your Django Project for User Auntentication.
+Not yet! Now that you've learned the basics of Django Rest Framework, you can now try to integrate some packages to your Django Project for User Auntentication.
 
 |S.No.|Link|Use
 |-----|----|---|
 |1.|[Djoser](https://pypi.org/project/djoser/)|Complete Authentication System|
-|2.|[Django Rest Framework - JWT](https://pypi.org/project/djangorestframework-jwt/)|Json Web Token support for authentication|
+|2.|[Django Rest Framework - JWT](https://pypi.org/project/djangorestframework-jwt/)|JSON Web Token support for Authentication|
 
 
-### Now lets deploy :muscle:
-Built your Project? Now lets deploy thrm on [Heroku](https://devcenter.heroku.com/categories/working-with-django)
+## Time to Deploy :muscle:
+Built your Project? Now try to deploy it on Heroku reading their [Docs](https://devcenter.heroku.com/categories/working-with-django)!
 
 <hr>
 

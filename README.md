@@ -15,7 +15,7 @@
 | Web Basics | [Link](./Frontend/WEB.md)            |
 | ReactJS    | [Link](./Frontend/REACT.md)          |
 | React Native| [Link](./Frontend/REACT-NATIVE.md)  |
-| AngularJS  |                                      |
+| AngularJS  | [Link](./Frontend/ANGULAR.JS)        |
 | VueJS      | [Link](./Frontend/VUEJS.md)          |
 | Flutter    | [Link](./Frontend/FLUTTER.md)        |
 | Android    | [Link](./Frontend/ANDROID-STUDIO.md) |
@@ -24,7 +24,7 @@
 
 | Domain   | Link                          |
 | -------- | ----------------------------- |
-| NodeJs   | [Link](./Backend/NODEJS.md)   |
+| NodeJS   | [Link](./Backend/NODEJS.md)   |
 | Django   | [Link](./Backend/DJANGO.md)   |
 | Deno     | [Link](./Backend/DENO.md)     |
 | Firebase | [Link](./Backend/FIREBASE.md) |
