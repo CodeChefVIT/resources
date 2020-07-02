@@ -10,7 +10,7 @@ AirBnb, Instagram, Discord, Myntra, Uber Eats, SoundCloud, and many more.
 
 ## Topics to Cover :books:
 
-We recommend [this youtube tutorial](https://www.youtube.com/watch?v=qSRrxpdMpVc) for getting started with the basics. And after this, if you want to even more into the details of React Native, we recommend [this Udemy course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/).
+We recommend [this youtube tutorial](https://www.youtube.com/watch?v=qSRrxpdMpVc) for getting started with the basics. And after this, if you want to take a deeper dive into React Native, we recommend [this Udemy course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/).
 
 The following topics should be covered: 
 
