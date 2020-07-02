@@ -1,4 +1,4 @@
-# REACT NATIVE
+# React Native
 <br>
 <p align="center"><img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1accc284-5885-44b9-8538-126c8097c468/reactive-native-preview-opt.png">
 <br>
@@ -44,15 +44,18 @@ These are the basics for getting started with React Native. The recommended Udem
 
 While learning, it is always recommended to implement your knowledge practically. So, these are some project ideas to help you through this process.
 
-- ToDo App (Of course)
+- ToDo App
 - Expense Tracker App
 - Recipes app
 - Radio/Music App
-- Instagram clone (complete with backend if you are feeling confident)
+- Instagram clone (complete with a backend if you are feeling confident)
 
 ## Done? :disappointed_relieved:
 
-Hopefully if you have completed the React Native path, you can call yourself a React Native app developer. If you are looking for more, get into [Flutter](./FLUTTER.md), which is another app development toolkit.
+<!-- Hopefully if you have completed the React Native path, you can call yourself a React Native app developer. If you are looking for more, get into [Flutter](./FLUTTER.md), which is another app development toolkit. -->
+If you have gone through the resources faithfully and completed some projects, give yourself a pat on the back. You can now call yourself a React Native developer.
+
+If you want to explore the path of app development further, look into [Flutter](./FLUTTER.md), which is Google's app development toolkit.
 
 <hr>
 We hope you now know the full roadmap for becoming a React Native developer. Best of luck for your future!
