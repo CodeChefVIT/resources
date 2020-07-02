@@ -22,15 +22,37 @@ The following topics should be covered:
 |4.|Getting familiar with JSX|
 |5.|React Components (with and without Hooks)|
 |6.|Views|
-|7.|React Native components|
-|8.|Navigation between screens|
-|9.|Reusable Components|
-|10.|Component Lifecycle|
+|7.|Basic React Native components|
+|8.|Reusable Components|
+|9.|Component Lifecycle|
+|10.|Navigation between screens|
 |11.|State management with and without Redux|
 |12.|Flexbox for styling|
+|13.|Networking in React Native|
 
 These are the basics for getting started with React Native. The recommended Udemy course goes a lot more in depth.
 
+## More Resources :mortar_board:
 
+- [Official React Native docs](https://reactnative.dev/docs/getting-started)
+- [Another YouTube tutorial by Mosh](youtube.com/watch?v=0-S5a0eXPoc)
+- [React Native playlist by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+- [This very cool website](http://www.reactnativeexpress.com/) that goes through all the basic with interactive code.
+- [Harvard University's CS50 Mobile Development with React Native course](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 
+## Cool Project ideas :muscle:
 
+While learning, it is always recommended to implement your knowledge practically. So, these are some project ideas to help you through this process.
+
+- ToDo App (Of course)
+- Expense Tracker App
+- Recipes app
+- Radio/Music App
+- Instagram clone (complete with backend if you are feeling confident)
+
+## Done? :disappointed_relieved:
+
+Hopefully if you have completed the React Native path, you can call yourself a React Native app developer. If you are looking for more, get into [Flutter](./FLUTTER.md), which is another app development toolkit.
+
+<hr>
+We hope you now know the full roadmap for becoming a React Native developer. Best of luck for your future!
