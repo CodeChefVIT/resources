@@ -57,7 +57,7 @@ Once you get familiar these, you can very well call yourself a Vue Developer. It
 
 
 ## Done? :disappointed_relieved:
-Not yet! Now that you've explored Vue, you can either learn [React](./REACT.md) or [Flutter](./FLUTTER.md) to start developing mobile apps. 
+Not yet! Now that you've explored Vue, you can either learn [React](./REACT.md) & master frontend web dev or [Flutter](./FLUTTER.md) to start developing mobile apps. 
 
 ### Why Flutter?
 Flutter and Vue have really similar State Management. A lot of other things also feel familiar so you won't really find it hard to learn Flutter.
