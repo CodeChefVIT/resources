@@ -12,6 +12,7 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
 - Reliable
 - Scalable and high-performance
 - Secure
+- Amazing Support Team
 
 ## Who uses AWS? :raising_hand:
 LinkedIn, Netflix, Twitch, Facebook, Twitter, Adobe and many more Tech Giants.
@@ -22,7 +23,7 @@ Stephane Maarek provides one of the best courses for AWS on Udemy.
 
 Link: [Ultimate AWS Certified Solutions Architect Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 
-It is recommended to go through this full course. You can also go through the AWS Docs and learn the following topics yourself owing to how easy AWS is to use:
+It is recommended to go through this full course. You can also go through the [AWS Docs](https://docs.aws.amazon.com/) and learn the following topics yourself owing to how easy AWS is to use:
 
 |S.No.|Topic|
 |----|-----|
