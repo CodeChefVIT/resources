@@ -127,3 +127,7 @@ Hyperledger Composer is an extensive, open development toolset and framework to 
 
 - [Getting started](https://hyperledger.github.io/composer/latest/tutorials/tutorials.html)
 - [Online playground](https://composer-playground.mybluemix.net/)
+
+<hr>
+
+We hope you now know the roadmap to being a professional Blockchain Developer :v:
