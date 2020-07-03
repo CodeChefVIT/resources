@@ -67,6 +67,12 @@
 | ------ | -------------------------------- |
 | IoT     | [Link](./IoT/IoT.md) |
 
+## Design
+
+| Domain | Link                             |
+| ------ | -------------------------------- |
+|Video Editing||
+
 <hr>
 
 Please give a :star: to show your support if you like this repository :wink:
