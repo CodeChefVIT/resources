@@ -85,7 +85,7 @@
 | Domain          | Link                             |
 | --------------- | -------------------------------- |
 | Basic Designing | [Link](./Design/BASIC-DESIGN.md) |
-| Video Editing   | [Link](./Design/VideoEditing.md) |
+| Video Editing   | [Link](./Design/VIDEO-EDITING.md) |
 
 ## Digital Marketing :camera:
 
