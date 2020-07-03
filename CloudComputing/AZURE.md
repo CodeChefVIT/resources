@@ -7,7 +7,7 @@ Azure is an open and flexible cloud platform that enables you to quickly build, 
 
 ## Why Azure? :heart_eyes:
 - Flexibility
-- Cost
+- Cost Effectiveness
 - Applications
 - Disaster Recovery
 - Logging Capabilities
@@ -45,4 +45,4 @@ You can apply to give an exam and become a Certified Azure Developer [here](http
 
 <hr>
 
-We hope you now know the roadmap to being a professional React Developer :v:
+We hope you now know the roadmap to being a professional and certified Azure Cloud Developer :v:
