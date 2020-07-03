@@ -34,16 +34,16 @@
 
 | Domain     | Link                           |
 | ---------- | ------------------------------ |
-| Ansible    | [Link](./DevOps/ANSIBLE.md)    |
-| Docker     | [Link](./DevOps/DOCKER.md)     |
-| Kubernetes | [Link](./DevOps/KUBERNETES.md) |
-| Jenkins    |                                |
+| Ansible    | [Link](./DevOps/Ansible.md)    |
+| Docker     | [Link](./DevOps/Docker.md)     |
+| Kubernetes | [Link](./DevOps/Kubernetes.md) |
+| Jenkins    | [Link](./DevOps/Jenkins.md)    |
 
 ## Blockchain
 
-| Domain     | Link                           |
-| ---------- | ------------------------------ |
-| Blockchain | [Link](./DevOps/BLOCKCHAIN.md) |
+| Domain     | Link                               |
+| ---------- | ---------------------------------- |
+| Blockchain | [Link](./Blockchain/blockchain.md) |
 
 ## Cloud Computing
 
