@@ -10,15 +10,16 @@
 
 ## Frontend :computer:
 
-| Domain       | Link                                 |
-| ------------ | ------------------------------------ |
-| Web Basics   | [Link](./Frontend/WEB.md)            |
-| ReactJS      | [Link](./Frontend/REACT.md)          |
-| React Native | [Link](./Frontend/REACT-NATIVE.md)   |
-| AngularJS    | [Link](./Frontend/ANGULARJS.md)      |
-| VueJS        | [Link](./Frontend/VUEJS.md)          |
-| Flutter      | [Link](./Frontend/FLUTTER.md)        |
-| Android      | [Link](./Frontend/ANDROID-STUDIO.md) |
+| Domain         | Link                                 |
+| -------------- | ------------------------------------ |
+| Web Basics     | [Link](./Frontend/WEB.md)            |
+| ReactJS        | [Link](./Frontend/REACT.md)          |
+| React Native   | [Link](./Frontend/REACT-NATIVE.md)   |
+| AngularJS      | [Link](./Frontend/ANGULARJS.md)      |
+| VueJS          | [Link](./Frontend/VUEJS.md)          |
+| Flutter        | [Link](./Frontend/FLUTTER.md)        |
+| Android Native | [Link](./Frontend/ANDROID-STUDIO.md) |
+| iOS Native     | [Link](./Frontend/IOS-NATIVE-APP.md) |
 
 ## Backend :gear:
 
@@ -82,9 +83,9 @@
 
 ## Design :art:
 
-| Domain          | Link                             |
-| --------------- | -------------------------------- |
-| Basic Designing | [Link](./Design/BASIC-DESIGN.md) |
+| Domain          | Link                              |
+| --------------- | --------------------------------- |
+| Basic Designing | [Link](./Design/BASIC-DESIGN.md)  |
 | Video Editing   | [Link](./Design/VIDEO-EDITING.md) |
 
 ## Digital Marketing :camera:
