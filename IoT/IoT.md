@@ -2,7 +2,7 @@
 
 <p align="center"><img  height="200" src="https://i.ibb.co/5c8kbVz/Internet-of-Things.png"></p>
 
-The Internet of things is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
+The Internet of Things is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
 
 ## What is IoT? :confused:
 - [What is IoT](https://www.iotforall.com/what-is-iot-simple-explanation/)
