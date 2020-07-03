@@ -30,6 +30,13 @@
 | Firebase | [Link](./Backend/FIREBASE.md) |
 | Flask    | [Link](./Backend/FLASK.md)    |
 
+# Version Control :arrows_counterclockwise:
+
+| Domain | Link                               |
+| ------ | ---------------------------------- |
+| Git    | [Link](./VersionControl/GIT.md)    |
+| GitHub | [Link](./VersionControl/GITHUB.md) |
+
 ## DevOps :loop:
 
 | Domain     | Link                           |
@@ -63,28 +70,28 @@
 
 ## Security :white_check_mark:
 
-| Domain | Link                                   |
-| ------ | -------------------------------------- |
-|Security| [Link](./Security/SECURITY.md)         |
+| Domain   | Link                           |
+| -------- | ------------------------------ |
+| Security | [Link](./Security/SECURITY.md) |
 
 ## IoT :globe_with_meridians:
 
-| Domain | Link                             |
-| ------ | -------------------------------- |
-| IoT    | [Link](./IoT/IoT.md)             |
+| Domain | Link                 |
+| ------ | -------------------- |
+| IoT    | [Link](./IoT/IoT.md) |
 
 ## Design :art:
 
-| Domain | Link                                   |
-| ------ | -------------------------------------- |
-|Basic Designing| [Link](./Design/BASIC-DESIGN.md)|
-|Video Editing  | [Link](./Design/VideoEditing.md)|
+| Domain          | Link                             |
+| --------------- | -------------------------------- |
+| Basic Designing | [Link](./Design/BASIC-DESIGN.md) |
+| Video Editing   | [Link](./Design/VideoEditing.md) |
 
 ## Digital Marketing :camera:
 
-| Domain | Link                                   |
-| ------ | -------------------------------------- |
-|Digital Marketing| [Link](./Marketing/DM.md)     |
+| Domain            | Link                      |
+| ----------------- | ------------------------- |
+| Digital Marketing | [Link](./Marketing/DM.md) |
 
 <hr>
 
