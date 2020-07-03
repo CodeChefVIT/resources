@@ -47,11 +47,12 @@
 
 ## Cloud Computing
 
-| Domain | Link |
-| ------ | ---- |
-| AWS    |      |
-| Azure  |      |
-| Heroku |      |
+| Domain | Link                               |
+| ------ | ---------------------------------- |
+| AWS    | [Link](./CloudComputing/AWS.md)    |
+| GCP    | [Link](./CloudComputing/GCP.md)    |
+| Azure  | [Link](./CloudComputing/AZURE.md)  |
+| Heroku | [Link](./CloudComputing/HEROKU.md) |
 
 ## Machine Learning
 

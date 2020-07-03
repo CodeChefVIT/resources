@@ -58,7 +58,7 @@ Once you get familiar these, you can very well call yourself a React Developer. 
 
 
 ## Done? :disappointed_relieved:
-Not yet! Now that you've explored React, you can either learn React Native or [Flutter](./FLUTTER.md) and start developing mobile apps. 
+Not yet! Now that you've explored React, you can either learn [React Native](./REACT-NATIVE.md) or [Flutter](./FLUTTER.md) and start developing mobile apps. 
 
 ### Why Flutter?
 Flutter and React have really similar State Management. A lot of other things also feel familiar so you won't really find it hard to learn Flutter.
