@@ -61,6 +61,13 @@
 | ML     | [Link](./ML/MACHINE_LEARNING.md) |
 | DL     | [Link](./ML/DEEP_LEARNING.md)    |
 
+## IoT
+
+| Domain | Link                             |
+| ------ | -------------------------------- |
+| ML     | [Link](./ML/MACHINE_LEARNING.md) |
+| DL     | [Link](./ML/DEEP_LEARNING.md)    |
+
 <hr>
 
 Please give a :star: to show your support if you like this repository :wink:
