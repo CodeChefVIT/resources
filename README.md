@@ -65,8 +65,7 @@
 
 | Domain | Link                             |
 | ------ | -------------------------------- |
-| ML     | [Link](./ML/MACHINE_LEARNING.md) |
-| DL     | [Link](./ML/DEEP_LEARNING.md)    |
+| IoT     | [Link](./IoT/IoT.md) |
 
 <hr>
 
