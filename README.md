@@ -15,7 +15,7 @@
 | Web Basics | [Link](./Frontend/WEB.md)            |
 | ReactJS    | [Link](./Frontend/REACT.md)          |
 | React Native| [Link](./Frontend/REACT-NATIVE.md)  |
-| AngularJS  | [Link](./Frontend/ANGULAR.JS)        |
+| AngularJS  | [Link](./Frontend/ANGULARJS.md)        |
 | VueJS      | [Link](./Frontend/VUEJS.md)          |
 | Flutter    | [Link](./Frontend/FLUTTER.md)        |
 | Android    | [Link](./Frontend/ANDROID-STUDIO.md) |
