@@ -8,7 +8,7 @@
 
 ---
 
-## Frontend
+## Frontend :computer:
 
 | Domain       | Link                                 |
 | ------------ | ------------------------------------ |
@@ -20,7 +20,7 @@
 | Flutter      | [Link](./Frontend/FLUTTER.md)        |
 | Android      | [Link](./Frontend/ANDROID-STUDIO.md) |
 
-## Backend
+## Backend :gear:
 
 | Domain   | Link                          |
 | -------- | ----------------------------- |
@@ -30,7 +30,7 @@
 | Firebase | [Link](./Backend/FIREBASE.md) |
 | Flask    | [Link](./Backend/FLASK.md)    |
 
-## DevOps
+## DevOps :loop:
 
 | Domain     | Link                           |
 | ---------- | ------------------------------ |
@@ -39,13 +39,13 @@
 | Kubernetes | [Link](./DevOps/Kubernetes.md) |
 | Jenkins    | [Link](./DevOps/Jenkins.md)    |
 
-## Blockchain
+## Blockchain :link:
 
 | Domain     | Link                               |
 | ---------- | ---------------------------------- |
 | Blockchain | [Link](./Blockchain/blockchain.md) |
 
-## Cloud Computing
+## Cloud Computing :cloud:
 
 | Domain | Link                               |
 | ------ | ---------------------------------- |
@@ -54,24 +54,37 @@
 | Azure  | [Link](./CloudComputing/AZURE.md)  |
 | Heroku | [Link](./CloudComputing/HEROKU.md) |
 
-## Machine Learning
+## Machine Learning :orange_book:
 
 | Domain | Link                             |
 | ------ | -------------------------------- |
 | ML     | [Link](./ML/MACHINE_LEARNING.md) |
 | DL     | [Link](./ML/DEEP_LEARNING.md)    |
 
-## IoT
+## Security :white_check_mark:
+
+| Domain | Link                                   |
+| ------ | -------------------------------------- |
+|Security| [Link](./Security/SECURITY.md)         |
+
+## IoT :globe_with_meridians:
 
 | Domain | Link                             |
 | ------ | -------------------------------- |
-| IoT     | [Link](./IoT/IoT.md) |
+| IoT    | [Link](./IoT/IoT.md)             |
 
-## Design
+## Design :art:
 
-| Domain | Link                             |
-| ------ | -------------------------------- |
-|Video Editing||
+| Domain | Link                                   |
+| ------ | -------------------------------------- |
+|Basic Designing| [Link](./Design/BASIC-DESIGN.md)|
+|Video Editing  | [Link](./Design/VideoEditing.md)|
+
+## Digital Marketing :camera:
+
+| Domain | Link                                   |
+| ------ | -------------------------------------- |
+|Digital Marketing| [Link](./Marketing/DM.md)     |
 
 <hr>
 
