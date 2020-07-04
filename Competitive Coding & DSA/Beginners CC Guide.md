@@ -78,3 +78,19 @@ And before getting started, have a look at this site- [CP-Algorithms](https://cp
 - [ ] [Word Puzzles](https://www.spoj.com/problems/WPUZZLES/)
 
 ***
+
+## :pushpin: Trees
+- [ ] [Trees-Data Structures](http://www.bowdoin.edu/~ltoma/teaching/cs210/spring09/Slides/210-Trees.pdf)
+- [ ] [Binary Search Trees](https://github.com/mpatacchiola/algorithms/tree/master/binary-search-trees)
+- [ ] [Balanced Search Trees](https://github.com/mpatacchiola/algorithms/tree/master/balanced-search-trees)
+- [ ] [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★☆☆ | [Same Tree](https://leetcode.com/problems/same-tree/) | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/accounts/login/?next=/problems/binary-tree-longest-consecutive-sequence/)             | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)                               | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Lowest Common Ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)              | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)              | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Sum of distances in tree](https://leetcode.com/problems/sum-of-distances-in-tree/)              | <ul> <li> [ ] </li> </ul> |
