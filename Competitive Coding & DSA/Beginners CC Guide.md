@@ -133,3 +133,28 @@ And before getting started, have a look at this site- [CP-Algorithms](https://cp
 
 ***
 
+## :pushpin: Union Find (Aka Disjoint Set Union/Union Find Disjoint Sets)
+- [ ] :movie_camera: [Union Find (PU-CS : Youtube)](https://www.youtube.com/watch?v=gfSpPbJWzVs&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=2)
+- [ ] [Disjoint Set Union(CP-Algorithms)](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★☆☆ | [Marriage Problem](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/marriage-problem/description/) | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Roads not only in Berland](https://codeforces.com/contest/25/problem/D)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Lexicographically minimal string](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/lexicographically-minimal-string-6edc1406/description/)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Consecutive Letters](https://www.spoj.com/problems/CONSEC/)                    | <ul> <li> [ ] </li> </ul> |
+
+***
+
+## :pushpin: Minimum Spanning Tree (Kruskal’s)
+- [ ] :movie_camera: [Kruskal's algorithm Minimum Spanning Tree Graph Algorithm(Youtube)](https://www.youtube.com/watch?v=fAuF0EuZVCk)
+- [ ] [Minimum spanning tree - Kruskal with Disjoint Set Union(CP-Algorithms)](https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html)
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★★☆ | [Bytelandian Blingors Network](https://www.spoj.com/problems/BLINNET/) | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Roads in HackerLand](hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [MST Queries](https://www.codechef.com/problems/MSTQS)             | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Cost](https://www.spoj.com/problems/KOICOST/)             | <ul> <li> [ ] </li> </ul> |
+
+***
