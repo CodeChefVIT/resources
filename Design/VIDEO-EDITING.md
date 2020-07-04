@@ -75,10 +75,8 @@ Output module settings—which are applied after render settings—determine pos
 
 ### *Resulting a much bigger File than Expected?* <br>
 **HANDBRAKE IT!**
-HandBrake : The open source video transcoder is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+[HandBrake](https://handbrake.fr/) : The open source video transcoder is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 NOTE: This will result in compressed size version of your video with just minor changes in quality.
-
-Click here to download [Handbrake](https://handbrake.fr/)
 
 
 Happy Learning :) 
