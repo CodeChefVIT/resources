@@ -40,25 +40,25 @@
 
 ## CC :computer:
 
-| Domain             | Link                              |
-| ------------------ | --------------------------------- |
-| Competitive Coding | [Link](./CC/CompetitiveCoding.md) |
-| DSA                | [Link](./CC/DSA.md)               |
+| Domain             | Link                |
+| ------------------ | ------------------- |
+| Competitive Coding | [Link](./CC/CC.md)  |
+| DSA                | [Link](./CC/DSA.md) |
 
 ## DevOps :loop:
 
 | Domain     | Link                           |
 | ---------- | ------------------------------ |
-| Ansible    | [Link](./DevOps/Ansible.md)    |
-| Docker     | [Link](./DevOps/Docker.md)     |
-| Kubernetes | [Link](./DevOps/Kubernetes.md) |
-| Jenkins    | [Link](./DevOps/Jenkins.md)    |
+| Ansible    | [Link](./DevOps/ANSIBLE.md)    |
+| Docker     | [Link](./DevOps/DOCKER.md)     |
+| Kubernetes | [Link](./DevOps/KUBERNETES.md) |
+| Jenkins    | [Link](./DevOps/JENKINS.md)    |
 
 ## Blockchain :link:
 
 | Domain     | Link                               |
 | ---------- | ---------------------------------- |
-| Blockchain | [Link](./Blockchain/blockchain.md) |
+| Blockchain | [Link](./Blockchain/BLOCKCHAIN.md) |
 
 ## Cloud Computing :cloud:
 
@@ -86,7 +86,7 @@
 
 | Domain | Link                 |
 | ------ | -------------------- |
-| IoT    | [Link](./IoT/IoT.md) |
+| IoT    | [Link](./IoT/IOT.md) |
 
 ## Design :art:
 
