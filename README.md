@@ -40,10 +40,10 @@
 
 ## CC :computer:
 
-| Domain             | Link                |
-| ------------------ | ------------------- |
-| Competitive Coding | [Link](./CC/CC.md)  |
-| DSA                | [Link](./CC/DSA.md) |
+| Domain             | Link                               |
+| ------------------ | ---------------------------------- |
+| Competitive Coding | [Link](./CC/COMPETITIVE-CODING.md) |
+| DSA                | [Link](./CC/DSA.md)                |
 
 ## DevOps :loop:
 
