@@ -111,3 +111,25 @@ And before getting started, have a look at this site- [CP-Algorithms](https://cp
 
 ***
 
+## :pushpin: Shortest Path Algorithms
+- Dijkstra
+- [ ] [Dijkstra Algorithm(CP-Algorithms)](https://cp-algorithms.com/graph/dijkstra.html)
+- [ ] :movie_camera: [Dijkstra's Algorithm Single Source Shortest Path Graph Algorithm(Youtube)](https://www.youtube.com/watch?v=lAXZGERcDf4)
+
+- Bellman Ford
+- [ ] [Bellman-Ford Algorithm(CP-Algorithms)](https://cp-algorithms.com/graph/bellman_ford.html)
+- [ ] :movie_camera:  [Bellman-Ford Algorithm Single Source Shortest Path Graph Algorithm(Youtube)](https://www.youtube.com/watch?v=-mOEd_3gTK0&t=947s)
+
+- Floyd Warshall
+- [ ] [Floyd-Warshall Algorithm(CP-Algorithms)](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
+- [ ] :movie_camera:  [Floyd Warshall Algorithm All Pair Shortest Path Graph Algorithm(Youtube)](https://www.youtube.com/watch?v=LwJdNfdLF9s&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j&index=9)
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★★☆ | [Minimum Valid Path](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/minimum-valid-path-3dc5bd03/) | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Chef and Digit Jumps](https://www.codechef.com/problems/DIGJUMP)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Road Decoration](https://www.codechef.com/AMR14ROS/problems/AMR14B)             | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Mice and Maze](https://www.spoj.com/problems/MICEMAZE/)             | <ul> <li> [ ] </li> </ul> |
+
+***
+
