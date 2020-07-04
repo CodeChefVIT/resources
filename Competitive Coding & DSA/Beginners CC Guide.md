@@ -6,7 +6,7 @@ And before getting started, have a look at this site- [CP-Algorithms](https://cp
 
 ***
 
-## Dynamic Programming 
+## :pushpin: Dynamic Programming
 
 - [ ] [Dynamic Programming Notes Hackerearth](https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/)
 - [ ] [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
@@ -38,7 +38,7 @@ And before getting started, have a look at this site- [CP-Algorithms](https://cp
 
 ***
 
-## String Algorithms 
+## :pushpin: String Algorithms 
 - [ ] [String manipulation(basics)](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
 - [ ] [Z algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/tutorial/) & [Z algorithm II](https://cp-algorithms.com/string/z-function.html)
 - [ ] [Manachar's algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/) & [Manacher's algorithm II](https://cp-algorithms.com/string/manacher.html)
