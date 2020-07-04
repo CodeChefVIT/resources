@@ -94,3 +94,20 @@ And before getting started, have a look at this site- [CP-Algorithms](https://cp
 | ★★☆ | [Lowest Common Ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)              | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)              | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [Sum of distances in tree](https://leetcode.com/problems/sum-of-distances-in-tree/)              | <ul> <li> [ ] </li> </ul> |
+
+***
+
+## :pushpin: Graphs
+- [ ] [Algorithm Gym :: Graph Algorithms](https://codeforces.com/blog/entry/16221)
+- [ ] [Basic Graph Theory](https://codeforces.com/blog/entry/3075)
+- [ ] :movie_camera: [Breadth-First Search(MIT OCW playlist-Youtube)](https://www.youtube.com/watch?v=s-CYnVz-uh4)
+- [ ] :movie_camera:  [Depth-First Search, Topological Sort (MIT OCW playlist-Youtube)](https://www.youtube.com/watch?v=AfSk24UTFS8)
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★☆☆ | [PPATH(SPOJ)](https://www.spoj.com/problems/PPATH/) | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Draughts(CodeChef)](https://www.codechef.com/problems/DRGHTS)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Distant Relatives(CodeChef](https://www.codechef.com/problems/DIREL)                    | <ul> <li> [ ] </li> </ul> |
+
+***
+
