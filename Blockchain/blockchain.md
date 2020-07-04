@@ -109,6 +109,13 @@ brew install node
 
 ## Hyperledger
 
+### Hyperledger resources
+
+- #### White Papers
+    - [An Introduction to Hyperledger](https://www.hyperledger.org/wp-content/uploads/2018/08/HL_Whitepaper_IntroductiontoHyperledger.pdf)
+    - [Hyperledger Architecture: Volume 1](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)
+    - [Hyperledger Architecture: Volume 2](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)
+
 ### Hyperledger fabric
 
 Hyperledger Fabric is intended as a foundation for developing applications or solutions with a modular architecture. Hyperledger Fabric allows components, such as consensus and membership services, to be plug-and-play. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to a consensus that enables performance at scale while preserving privacy.
