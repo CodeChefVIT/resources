@@ -67,4 +67,6 @@ have already been solved by someone else there. So, if you face any issues don't
 
 Checkout [Android Arsnel](https://android-arsenal.com/) for cool tools and frameworks that you can integrate with your apps.
 
-Keep Learning :v:
+<hr>
+
+We hope you now know the roadmap to being a professional Native Android Developer :v:

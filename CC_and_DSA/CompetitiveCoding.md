@@ -1,8 +1,10 @@
-# Beginners Guide for Competitive Coding
+# Competitive Coding
+<br>
+<p align="center"><img src="https://i.ibb.co/L8bYh6Z/cc.jpg" height="200"></p>
 
-One must have basic idea and clear concepts of Data Structures and Algorithms before diving into this sport called "Competitive Coding".
+One must have basic idea and clear concepts of [Data Structures and Algorithms](./DSA.md) before diving into this sport called "Competitive Coding".
 
-And before getting started, have a look at this site- [CP-Algorithms](https://cp-algorithms.com/), it is a one stop solution for all competitive coders and would be very helpful at the later stage of this journey.
+Before getting started, have a look at this site: [CP-Algorithms](https://cp-algorithms.com/), a one stop solution for all competitive coders. This will be very helpful at later stages of this journey.
 
 ***
 
@@ -157,4 +159,6 @@ And before getting started, have a look at this site- [CP-Algorithms](https://cp
 | ★★☆ | [MST Queries](https://www.codechef.com/problems/MSTQS)             | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Cost](https://www.spoj.com/problems/KOICOST/)             | <ul> <li> [ ] </li> </ul> |
 
-***
+<hr>
+
+We hope you now know the roadmap to being a professional Competitive Coder :v:
