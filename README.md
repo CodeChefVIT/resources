@@ -8,13 +8,6 @@
 
 ---
 
-## Competitive Coding & DSA :computer:
-
-| Domain                 | Link                                     |
-| ---------------------- | ---------------------------------------- |
-| Competitive Coding     | [Link](./CC_and_DSA/CompetitiveCoding.md)|
-| DSA                    | [Link](./CC_and_DSA/DSA.md)              |
-
 ## Frontend :desktop_computer:
 
 | Domain         | Link                                 |
@@ -44,6 +37,13 @@
 | ------ | ---------------------------------- |
 | Git    | [Link](./VersionControl/GIT.md)    |
 | GitHub | [Link](./VersionControl/GITHUB.md) |
+
+## CC :computer:
+
+| Domain             | Link                              |
+| ------------------ | --------------------------------- |
+| Competitive Coding | [Link](./CC/CompetitiveCoding.md) |
+| DSA                | [Link](./CC/DSA.md)               |
 
 ## DevOps :loop:
 
@@ -90,17 +90,17 @@
 
 ## Design :art:
 
-| Domain          | Link                              |
-| --------------- | --------------------------------- |
-| UI / UX         | [Link](./Design/UI_UX.md)         |
-| Graphic Design  | [Link](./Design/GRAPHIC.md)         |
+| Domain         | Link                             |
+| -------------- | -------------------------------- |
+| UI/UX          | [Link](./Design/UI-UX.md)        |
+| Graphic Design | [Link](./Design/GRAPHIC.md)      |
 | Video Design   | [Link](./Design/VIDEO-DESIGN.md) |
 
 ## Digital Marketing :camera:
 
-| Domain            | Link                      |
-| ----------------- | ------------------------- |
-| Digital Marketing | [Link](./Marketing/DM.md) |
+| Domain            | Link                                     |
+| ----------------- | ---------------------------------------- |
+| Digital Marketing | [Link](./Marketing/DIGITAL-MARKETING.md) |
 
 <hr>
 
