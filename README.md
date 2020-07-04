@@ -8,7 +8,14 @@
 
 ---
 
-## Frontend :computer:
+## Competitive Coding & DSA :computer:
+
+| Domain                 | Link                                     |
+| ---------------------- | ---------------------------------------- |
+| Competitive Coding     | [Link](./CC_and_DSA/CompetitiveCoding.md)|
+| DSA                    | [Link](./CC_and_DSA/DSA.md)              |
+
+## Frontend :desktop_computer:
 
 | Domain         | Link                                 |
 | -------------- | ------------------------------------ |
@@ -31,7 +38,7 @@
 | Firebase | [Link](./Backend/FIREBASE.md) |
 | Flask    | [Link](./Backend/FLASK.md)    |
 
-# Version Control :arrows_counterclockwise:
+## Version Control :arrows_counterclockwise:
 
 | Domain | Link                               |
 | ------ | ---------------------------------- |
@@ -85,8 +92,9 @@
 
 | Domain          | Link                              |
 | --------------- | --------------------------------- |
-| Basic Designing | [Link](./Design/BASIC-DESIGN.md)  |
-| Video Editing   | [Link](./Design/VIDEO-EDITING.md) |
+| UI / UX         | [Link](./Design/UI_UX.md)         |
+| Graphic Design  | [Link](./Design/GRAPHIC.md)         |
+| Video Design   | [Link](./Design/VIDEO-DESIGN.md) |
 
 ## Digital Marketing :camera:
 
