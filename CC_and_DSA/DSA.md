@@ -69,4 +69,4 @@ Data Structure is a way of collecting and organising data in such a way that we 
 
 *** 
 
-We hope you now know the roadmap to become good at Data Structures and Algorithms :v:. Have a look at our [Beginners Guide for Competitive Coding](./CC_and_DSA/COMPETITIVE-CODING.md) and start competing in Online Contests.
+We hope you now know the roadmap to become good at Data Structures and Algorithms :v:. Have a look at our [Beginners Guide for Competitive Coding](./COMPETITIVE-CODING.md) and start competing in Online Contests.
