@@ -38,12 +38,12 @@
 | Git    | [Link](./VersionControl/GIT.md)    |
 | GitHub | [Link](./VersionControl/GITHUB.md) |
 
-## CC :computer:
+## CC & DSA :computer:
 
 | Domain             | Link                               |
 | ------------------ | ---------------------------------- |
-| Competitive Coding | [Link](./CC/COMPETITIVE-CODING.md) |
-| DSA                | [Link](./CC/DSA.md)                |
+| Competitive Coding | [Link](./CC_and_DSA/COMPETITIVE-CODING.md) |
+| DSA                | [Link](./CC_and_DSA/DSA.md)                |
 
 ## DevOps :loop:
 
