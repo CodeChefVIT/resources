@@ -10,18 +10,18 @@
 
 ## Index :books:
 
-* [Frontend :desktop_computer:](#frontend)
-* [Backend :gear:](#backend)
-* [Version Control :arrows_counterclockwise:](#version-control)
-* [CC & DSA :computer:](#cc--dsa)
-* [DevOps :loop:](#devops)
-* [Blockchain :link:](#blockchain)
-* [Cloud Computing :cloud:](#cloud-computing)
-* [Machine Learning :orange_book:](#machine-learning)
-* [Security :white_check_mark:](#security)
-* [IoT :globe_with_meridians:](#iot)
-* [Design :art:](#design)
-* [Digital Marketing :camera:](#digital-marketing)
+* [Frontend :desktop_computer:](#frontend-desktop_computer)
+* [Backend :gear:](#backend-gear)
+* [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
+* [CC & DSA :computer:](#cc--dsa-computer)
+* [DevOps :loop:](#devops-loop)
+* [Blockchain :link:](#blockchain-link)
+* [Cloud Computing :cloud:](#cloud-computing-cloud)
+* [Machine Learning :orange_book:](#machine-learning-orange_book)
+* [Security :white_check_mark:](#security-white_check_mark)
+* [IoT :globe_with_meridians:](#iot-globe_with_meridians)
+* [Design :art:](#design-art)
+* [Digital Marketing :camera:](#digital-marketing-camera)
 
 ## Frontend :desktop_computer:
 
@@ -36,7 +36,7 @@
 | Android Native | [Link](./Frontend/ANDROID-STUDIO.md) |
 | iOS Native     | [Link](./Frontend/IOS-NATIVE-APP.md) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## Backend :gear:
 
@@ -48,7 +48,7 @@
 | Firebase | [Link](./Backend/FIREBASE.md) |
 | Flask    | [Link](./Backend/FLASK.md)    |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## Version Control :arrows_counterclockwise:
 
@@ -64,7 +64,7 @@
 | Competitive Coding | [Link](./CC_and_DSA/COMPETITIVE-CODING.md) |
 | DSA                | [Link](./CC_and_DSA/DSA.md)                |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## DevOps :loop:
 
@@ -75,7 +75,7 @@
 | Kubernetes | [Link](./DevOps/KUBERNETES.md) |
 | Jenkins    | [Link](./DevOps/JENKINS.md)    |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## Blockchain :link:
 
@@ -83,7 +83,7 @@
 | ---------- | ---------------------------------- |
 | Blockchain | [Link](./Blockchain/BLOCKCHAIN.md) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## Cloud Computing :cloud:
 
@@ -94,7 +94,7 @@
 | Azure  | [Link](./CloudComputing/AZURE.md)  |
 | Heroku | [Link](./CloudComputing/HEROKU.md) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## Machine Learning :orange_book:
 
@@ -103,7 +103,7 @@
 | ML     | [Link](./ML/MACHINE_LEARNING.md) |
 | DL     | [Link](./ML/DEEP_LEARNING.md)    |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## Security :white_check_mark:
 
@@ -111,7 +111,7 @@
 | -------- | ------------------------------ |
 | Security | [Link](./Security/SECURITY.md) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## IoT :globe_with_meridians:
 
@@ -127,7 +127,7 @@
 | Graphic Design | [Link](./Design/GRAPHIC.md)      |
 | Video Design   | [Link](./Design/VIDEO-DESIGN.md) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 ## Digital Marketing :camera:
 
@@ -135,7 +135,7 @@
 | ----------------- | ---------------------------------------- |
 | Digital Marketing | [Link](./Marketing/DIGITAL-MARKETING.md) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#index-books)**
 
 <hr>
 
