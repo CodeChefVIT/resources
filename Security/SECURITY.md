@@ -1,11 +1,13 @@
 # Cyber Security
-
+<br>
+<p align="center"><img src="https://i.ibb.co/HCG7t6M/Cyber-Security.png" height="200"></p>
+<br>
 Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known
 as information technology security or electronic information security.
 
 ## :pushpin: Getting Started :computer:
 
-Some of the operating systems used for cyber security and ethical hacking purposes are Kali Linux, BlackBox, Parrot Security OS, Live Hacking OS, DEFT Linux and many more. But the most widely used OS is Kali Linux. Below are links to set up Kali Linux and Ubuntu in virtual box which would act as attacker machine and defender machine respectively.
+Some of the operating systems used for cyber security and ethical hacking purposes are Kali Linux, BlackBox, Parrot Security OS, Live Hacking OS, DEFT Linux and many more. But the most widely used OS is Kali Linux. Below are links to set up Kali Linux and Ubuntu in virtual box which would act as attacker machine and defender machine respectively:
 
 - [Kali Linux](http://phoenixnap.com/kb/how-to-install-kali-linux-on-virtualbox) step by step guide.
 - [Ubuntu](https://itsfoss.com/install-linux-in-virtualbox/) step by step guide.

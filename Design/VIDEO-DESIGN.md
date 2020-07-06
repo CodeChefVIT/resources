@@ -3,31 +3,30 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Adobe_After_Effects_CS6_Icon.png" height="120"></p>
 <br>
 
-
-Adobe After Effects is a digital visual effects, motion graphics, and compositing application developed by Adobe Systems and used in the post-production process of film making, video games and television production
+Adobe After Effects is a digital visual effects, motion graphics, and compositing application developed by Adobe Systems and used in the post-production process of film making, video games and television production.
 
 
 ## Installation
  
-To install Adobe After Effects for Windows, Follow these [steps](https://helpx.adobe.com/in/after-effects/get-started.html)  
+To install Adobe After Effects for Windows, Follow these [steps](https://helpx.adobe.com/in/after-effects/get-started.html).  
 
 
-## Getting Started  
+## Getting Started :muscle:
 
 **New To Video Editing?**  
-Get a brief about After Effect's [Interface](https://helpx.adobe.com/in/after-effects/how-to/aftereffects-workflow-terminology.html)  
+Get a brief about After Effect's [Interface](https://helpx.adobe.com/in/after-effects/how-to/aftereffects-workflow-terminology.html).
 
 **Bored finding the commands in the interface?**  
-Here is Complete list of Keyboard [Shortcuts](https://helpx.adobe.com/in/after-effects/user-guide.html)  
+Here is Complete list of Keyboard [Shortcuts](https://helpx.adobe.com/in/after-effects/user-guide.html).  
 
 **Confused how to initiate?**  
-Here is the workflow to proceed in [After Effects](https://helpx.adobe.com/in/after-effects/using/workflows.html)  
+Here is the workflow to proceed in [After Effects](https://helpx.adobe.com/in/after-effects/using/workflows.html).  
 
 
-*For Official Guide for After Effects by Adobe, Click [here](https://helpx.adobe.com/in/after-effects/user-guide.html)*
+*For Official Guide for After Effects by Adobe, Click [here](https://helpx.adobe.com/in/after-effects/user-guide.html)*.
 
 
-## Video Tutorials for Major Topics  
+## Video Tutorials for Major Topics :books:
 
 |Topic|Link|
 |--------|------|
@@ -39,9 +38,8 @@ Here is the workflow to proceed in [After Effects](https://helpx.adobe.com/in/af
 |Motion Graphics|[Link](https://www.youtube.com/watch?v=HcHq9XjGuzc&t=9s)|
 |Typography|[Link](https://www.youtube.com/watch?v=kD73GVXwLXg)|
 |Logo Animation|[Link](https://www.youtube.com/watch?v=KmPGU3UJ6es&t=1081s)|
-<br>
 
-## Render Settings 
+## Render Settings :gear:
 
 Render settings determine the following characteristics:  
   - Output frame rate  
@@ -71,12 +69,12 @@ Output module settings—which are applied after render settings—determine pos
 
 *Note*: A higher Quality setting produces better image quality but results in a bigger movie file.  
 
-<hr>
 
-### *Resulting a much bigger File than Expected?*  
+## *Result is a much bigger file than expected?* :thinking:
 **HANDBRAKE IT!**  
-[HandBrake](https://handbrake.fr/) : The open source video transcoder is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+[HandBrake](https://handbrake.fr/): This open source video transcoder is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 NOTE: This will result in compressed size version of your video with just minor changes in quality.
 
+<hr>
 
-Happy Learning :) 
+We hope you now know the roadmap to being a professional Video Designer :v:
