@@ -47,6 +47,7 @@
 | Deno     | [Link](./Backend/DENO.md)     |
 | Firebase | [Link](./Backend/FIREBASE.md) |
 | Flask    | [Link](./Backend/FLASK.md)    |
+| GraphQL  | [Link](./Backend/GRAPHQL.md)    |
 
 **[⬆ Back to Index](#index-books)**
 
