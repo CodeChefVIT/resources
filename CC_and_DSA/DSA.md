@@ -9,17 +9,22 @@ Data Structure is a way of collecting and organising data in such a way that we 
 
 |S.No.|Topic|Finished|
 |---|-------------|---------|
-| 1. |Array|<ul> <li> [ ] </li> </ul> |
-|2.|Heap|<ul> <li> [ ] </li> </ul> |
-|3.|Stack|<ul> <li> [ ] </li> </ul> |
-|4.|Queues|<ul> <li> [ ] </li> </ul> |
-|5.|Linked Lists|<ul> <li> [ ] </li> </ul> |
-|6.|Collections|<ul> <li> [ ] </li> </ul> |
-|7.|Trees|<ul> <li> [ ] </li> </ul> |
-|8.|Hash Tables|<ul> <li> [ ] </li> </ul> |
-|9.|Searching|<ul> <li> [ ] </li> </ul> |
-|10.|Recursion|<ul> <li> [ ] </li> </ul> |
-|11.|Queues|<ul> <li> [ ] </li> </ul> |
+|1.|Array|<ul> <li> [ ] </li> </ul> |
+|2.|Stack|<ul> <li> [ ] </li> </ul> |
+|3.|Queues|<ul> <li> [ ] </li> </ul> |
+|4.|Linked Lists|<ul> <li> [ ] </li> </ul> |
+|5.|Collections|<ul> <li> [ ] </li> </ul> |
+|6.|Hash Tables|<ul> <li> [ ] </li> </ul> |
+|7.|Recursion|<ul> <li> [ ] </li> </ul> |
+|8.|Basic Trees & Graphs|<ul> <li> [ ] </li> </ul> |
+|9.|Segment Trees & Fenwick Trees|<ul> <li> [ ] </li> </ul> |
+|10.|Heap|<ul> <li> [ ] </li> </ul> |
+|11.|Disjoint Set Union|<ul> <li> [ ] </li> </ul> |
+|12.|Persistent Data Structures|<ul> <li> [ ] </li> </ul> |
+|13.|Trie|<ul> <li> [ ] </li> </ul> |
+|14.|Self-Balancing Trees|<ul> <li> [ ] </li> </ul> |
+|15.|n-ary Trees|<ul> <li> [ ] </li> </ul> |
+|16.|Multi dimensional Trees|<ul> <li> [ ] </li> </ul> |
 
 ## :pushpin: Topics to Cover for Algorithms :books:
 
