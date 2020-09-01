@@ -33,4 +33,4 @@ For starting with basics, setting it up and get an idea about various things, yo
 
 <hr>
 
-We hope you now know the roadmap to being a professional IoT Developer :v:
+We hope you now know the roadmap to being a professional Selenium Tester :v:
