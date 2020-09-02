@@ -13,7 +13,7 @@ Download Selenium WebDriver, IDE and Grid from [here](https://www.selenium.dev/)
 
 * Easy Scripting.
 * Visualizes The Working For Automation.
-* It supports the different languages like: Java, python, C#, Ruby, Perl, PHP, JavaScript.
+* It supports the different languages like: Java, Python, C#, Ruby, Perl, PHP, JavaScript.
 * Selenium server initializing is not required.
 * It supports iPhone and Android testing also.
 * Starting up a server in WebDriver is not required.
