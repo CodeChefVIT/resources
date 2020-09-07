@@ -63,7 +63,7 @@ Data Structure is a way of collecting and organising data in such a way that we 
 ## :pushpin: Resources
 
 - [ ] :movie_camera: [MIT Course: Introduction to Algorithms (MIT OCW playlist-Youtube)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [ ] :movie_camera: [Mycodeschool: Data Structures (Youtube)](https://www.youtube.com/watch?v=s-CYnVz-uh4)
+- [ ] :movie_camera: [Mycodeschool: Data Structures (Youtube)](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [ ] [MIT Lecture Notes on Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/lecture-notes/)
 - [ ] [Princeton University Lectures on Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/fall19/cos226/lectures.php)
 - [ ] :closed_book: Introduction to Algorithms by Thomas H. Corman
