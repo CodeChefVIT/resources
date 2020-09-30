@@ -31,7 +31,7 @@ Follow either the [Official Docs](https://docs.djangoproject.com/en/3.0/) or [Te
 
 ### Django Rest Framework (Rest APIs):
 
-Follow either the [Official Docs](https://www.django-rest-framework.org/) or [Edureka](https://www.youtube.com/watch?v=ejJ-2oz4AgI) or both and cover the following topics:
+Follow either the [Official Docs](https://www.django-rest-framework.org/) or [Edureka](https://www.youtube.com/watch?v=ejJ-2oz4AgI) or both. Another useful resource is [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) for comprehensive understanding and cover the following topics:
 
 |S.No.|Topic|
 |----|-----|

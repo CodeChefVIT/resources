@@ -42,6 +42,7 @@ For Step-by-Step instructions follow [this](https://codelabs.developers.google.c
 |Canvas|[Link](https://codelabs.developers.google.com/codelabs/advanced-android-training-create-canvas/index.html?index=..%2F..advanced-android-training#0)|
 |Animations|[Link](https://codelabs.developers.google.com/codelabs/advanced-android-training-animations/index.html?index=..%2F..advanced-android-training#0)|
 |Video Views|[Link](https://codelabs.developers.google.com/codelabs/advanced-android-training-video-view/index.html?index=..%2F..advanced-android-training#0)|
+|View Models|[Link](https://github.com/anujkap/APICallsandInterceptor)|
 
 ## Testing and Debugging  
 |Topic|Link|
@@ -58,6 +59,8 @@ Here are a few starter apps that you can explore and learn from:
 - [Basic Apps](https://github.com/google-developer-training/android-fundamentals)  
 - [Intermediate Apps](https://github.com/google-developer-training/android-fundamentals-starter-apps-v2)  
 - [Advanced Apps](https://github.com/google-developer-training/android-advanced-starter-apps)  
+
+For debugging API calls, Interceptors are very useful. Check out [this](https://github.com/anujkap/APICallsandInterceptor) repo to see how to set it up.
 
 ## What Next?  
 Android is a constantly changing software, every new release adds a few new features that make things simpler, or remove some things that were possible before so the best thing to do is to go with the flow. 

@@ -15,6 +15,7 @@
 * [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
 * [CC & DSA :computer:](#cc--dsa-computer)
 * [DevOps :loop:](#devops-loop)
+* [Web Automation :robot:](#web-automation-robot)
 * [Blockchain :link:](#blockchain-link)
 * [Cloud Computing :cloud:](#cloud-computing-cloud)
 * [Machine Learning :orange_book:](#machine-learning-orange_book)
@@ -77,6 +78,14 @@
 | Docker     | [Link](./DevOps/DOCKER.md)     |
 | Kubernetes | [Link](./DevOps/KUBERNETES.md) |
 | Jenkins    | [Link](./DevOps/JENKINS.md)    |
+
+**[⬆ Back to Index](#index-books)**
+
+## Web Automation :robot:
+
+| Domain     | Link                           |
+| ---------- | ------------------------------ |
+| Selenium    | [Link](./Web-Automation/SELENIUM.md)    |
 
 **[⬆ Back to Index](#index-books)**
 
