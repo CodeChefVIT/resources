@@ -69,7 +69,13 @@ For starting ML from right from basics, setting everything up and getting an ide
    - LocalOutlierFactor
       - [Article](https://turi.com/learn/userguide/anomaly_detection/local_outlier_factor.html)
       - [Video Series](https://www.youtube.com/watch?v=nbNiD76yE8o&list=PL8Bgdi87Y1lWJtBDuStNuEGoXKVFmMrF3)
-   
+   - AdaBoost
+     - [Article](https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe)
+     - [Video example](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+   - XGBoost
+      - [Article](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
+      - [Video example](https://www.youtube.com/watch?v=OtD8wVaFm6E)
+      
  2) Prediction Measurements
    - mean_absolute_error
       - [Mean Absolute Error](https://www.statisticshowto.datasciencecentral.com/absolute-error/)
