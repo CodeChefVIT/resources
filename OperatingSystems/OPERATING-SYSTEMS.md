@@ -8,8 +8,8 @@ An Operating System (OS) is an interface between a computer user and computer ha
 
 ## Diving Deep :books:
 
-*[Operating System Concepts](https://drive.google.com/file/d/1nMVog9nY9emkglZ_01Mz4AXuj9BpIBAF/view?usp=sharing)|
-*[Operating Systems internal design principles](https://drive.google.com/file/d/1txDu5eDgoz-G7SrWm6wlTn3C08b9hEvX/view?usp=sharing)|
+* [Operating System Concepts](https://drive.google.com/file/d/1nMVog9nY9emkglZ_01Mz4AXuj9BpIBAF/view?usp=sharing) - Avi Silberschatz (PDF)
+* [Operating Systems internal design principles](https://drive.google.com/file/d/1txDu5eDgoz-G7SrWm6wlTn3C08b9hEvX/view?usp=sharing) - William Stallings (PDF)
 * [A short introduction to operating systems (2001)](http://markburgess.org/os/os.pdf) - Mark Burgess (PDF)
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com)
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) (:construction: *in process*)
