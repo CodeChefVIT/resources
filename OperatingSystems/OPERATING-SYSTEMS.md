@@ -29,14 +29,17 @@ An Operating System (OS) is an interface between a computer user and computer ha
 
 ## Further Things to Explore :book:
 
-|1.|Slides|[Link](https://www.os-book.com/OS9/slide-dir/index.html)
+|1.|Slides|[Link](https://www.os-book.com/OS9/slide-dir/index.html)|
 
 ## Some Free Online Lecutres 
 
-|1.|Stanford CS-140   |[Link](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
-|2.|UC Berkely CS-162 |[Link](https://cs162.eecs.berkeley.edu/)
-|3.|Cornell University|[Link](http://www.cs.cornell.edu/courses/cs4410/2014fa/)
-|4.|Uni of Virginia   |[Link](http://rust-class.org/class-1-what-is-an-operating-system.html)
+|S.No.|Course|Link|
+|----|-----|-----|
+|1.|Stanford CS-140|[Link](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)|
+|2.|UC Berkely CS-162|[Link](https://cs162.eecs.berkeley.edu/)|
+|3.|Cornell University|[Link](http://www.cs.cornell.edu/courses/cs4410/2014fa/)|
+|4.|Uni of Virginia|[Link](http://rust-class.org/class-1-what-is-an-operating-system.html)|
+
 <hr>
 
 We hope you now know the roadmap to being a professional Digital Marketer :v:
