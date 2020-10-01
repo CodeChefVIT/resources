@@ -23,6 +23,8 @@
 * [IoT :globe_with_meridians:](#iot-globe_with_meridians)
 * [Design :art:](#design-art)
 * [Digital Marketing :camera:](#digital-marketing-camera)
+* [Operating Systems :cd:](#operating-systems-cd)
+* [Big Data :bar_chart:](#big-data-bar-chart)
 
 ## Frontend :desktop_computer:
 
@@ -150,13 +152,15 @@
 | Digital Marketing | [Link](./Marketing/DIGITAL-MARKETING.md) |
 
 
-## Operating Systems :computer:
+## Operating Systems :cd:
 
 | Domain            | Link                                            |
 | ----------------- | ----------------------------------------------- |
 | Operating Systems | [Link](./OperatingSystems/OPERATING-SYSTEMS.md) |
 
-## Big Data :computer:
+**[⬆ Back to Index](#index-books)**
+
+## Big Data :bar_chart:
 
 | Domain            | Link                                            |
 | ----------------- | ----------------------------------------------- |
