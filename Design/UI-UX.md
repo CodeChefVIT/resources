@@ -7,6 +7,7 @@ User interface design or user interface engineering is the design of user interf
 ## Getting Started :book:
 This one course will get you familiar with all tools and tricks related to UI/UX Designing.
 - [Complete UI/UX Tutorial](https://youtu.be/68w2VwalD5w)
+- [Web Design using Figma](https://www.youtube.com/playlist?list=PLERed4ILxkJ0v7VbF-bLnwLj1lz8AansP)
 
 ## Done? :disappointed_relieved:
 No! You cannot master UI/UX Designing without practice. Practice making different designs for different products (both on mobile and web artboards).
