@@ -89,3 +89,7 @@ For starting ML from right from basics, setting everything up and getting an ide
    - RobustScaler
       - [Robust Scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
    - [Difference In Types of Scalers](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
+   
+ 4) Encoding Categorical Data
+  -  Differenent types of Encoding Techniques
+     - [Explanation](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)
