@@ -107,6 +107,7 @@
 | GCP    | [Link](./CloudComputing/GCP.md)    |
 | Azure  | [Link](./CloudComputing/AZURE.md)  |
 | Heroku | [Link](./CloudComputing/HEROKU.md) |
+| DigitalOcean | [Link](./CloudComputing/DIGITALOCEAN.md) |
 
 **[⬆ Back to Index](#index-books)**
 
