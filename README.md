@@ -15,7 +15,7 @@
 * [Blockchain :link:](#blockchain-link)
 * [CC & DSA :computer:](#cc--dsa-computer)
 * [Cloud Computing :cloud:](#cloud-computing-cloud)
-* [DBMS :computer:](#DBMS-computer)
+* [DBMS :computer:](#DBMS-bookmark_tabs)
 * [Design :art:](#design-art)
 * [DevOps :loop:](#devops-loop)
 * [Digital Marketing :camera:](#digital-marketing-camera)
@@ -78,7 +78,7 @@
 
 **[⬆ Back to Index](#index-books)**
 
-## DBMS :computer:
+## DBMS :bookmark_tabs:
 
 | Domain         | Link                             |
 | -------------- | -------------------------------- |
