@@ -13,107 +13,19 @@
 * [Backend :gear:](#backend-gear)
 * [Big Data :bar_chart:](#big-data-bar-chart)
 * [Blockchain :link:](#blockchain-link)
-* [CC & DSA :computer:](#cc--dsa-computer)
 * [Cloud Computing :cloud:](#cloud-computing-cloud)
-* [DBMS :bookmark_tabs:](#DBMS-bookmark_tabs)
+* [CC & DSA :computer:](#cc--dsa-computer)
 * [Design :art:](#design-art)
 * [DevOps :loop:](#devops-loop)
 * [Digital Marketing :camera:](#digital-marketing-camera)
 * [Frontend :desktop_computer:](#frontend-desktop_computer)
 * [IoT :globe_with_meridians:](#iot-globe_with_meridians)
 * [Machine Learning :orange_book:](#machine-learning-orange_book)
+* [OOPS ⚙](#oops-settings)
 * [Operating Systems :cd:](#operating-systems-cd)
 * [Security :white_check_mark:](#security-white_check_mark)
 * [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
 * [Web Automation :robot:](#web-automation-robot)
-
-
-## Backend :gear:
-
-| Domain   | Link                          |
-| -------- | ----------------------------- |
-| NodeJS   | [Link](./Backend/NODEJS.md)   |
-| Django   | [Link](./Backend/DJANGO.md)   |
-| Deno     | [Link](./Backend/DENO.md)     |
-| Firebase | [Link](./Backend/FIREBASE.md) |
-| Flask    | [Link](./Backend/FLASK.md)    |
-| GraphQL  | [Link](./Backend/GRAPHQL.md)    |
-
-**[⬆ Back to Index](#index-books)**
-
-## Big Data :bar_chart:
-
-| Domain            | Link                                            |
-| ----------------- | ----------------------------------------------- |
-| Big Data | [Link](./Big-Data/BIG-DATA.md) |
-
-**[⬆ Back to Index](#index-books)**
-
-## Blockchain :link:
-
-| Domain     | Link                               |
-| ---------- | ---------------------------------- |
-| Blockchain | [Link](./Blockchain/BLOCKCHAIN.md) |
-
-**[⬆ Back to Index](#index-books)**
-
-## CC & DSA :computer:
-
-| Domain             | Link                               |
-| ------------------ | ---------------------------------- |
-| Competitive Coding | [Link](./CC_and_DSA/COMPETITIVE-CODING.md) |
-| DSA                | [Link](./CC_and_DSA/DSA.md)                |
-
-**[⬆ Back to Index](#index-books)**
-
-## Cloud Computing :cloud:
-
-| Domain | Link                               |
-| ------ | ---------------------------------- |
-| AWS    | [Link](./CloudComputing/AWS.md)    |
-| GCP    | [Link](./CloudComputing/GCP.md)    |
-| Azure  | [Link](./CloudComputing/AZURE.md)  |
-| Heroku | [Link](./CloudComputing/HEROKU.md) |
-| DigitalOcean | [Link](./CloudComputing/DIGITALOCEAN.md) |
-
-**[⬆ Back to Index](#index-books)**
-
-## DBMS :bookmark_tabs:
-
-| Domain         | Link                             |
-| -------------- | -------------------------------- |
-| DBMS          | [Link](./DBMS/DBMS.md)        |
-
-**[⬆ Back to Index](#index-books)**
-
-## Design :art:
-
-| Domain         | Link                             |
-| -------------- | -------------------------------- |
-| UI/UX          | [Link](./Design/UI-UX.md)        |
-| Graphic Design | [Link](./Design/GRAPHIC.md)      |
-| Video Design   | [Link](./Design/VIDEO-DESIGN.md) |
-
-**[⬆ Back to Index](#index-books)**
-
-## DevOps :loop:
-
-| Domain     | Link                           |
-| ---------- | ------------------------------ |
-| Ansible    | [Link](./DevOps/ANSIBLE.md)    |
-| Docker     | [Link](./DevOps/DOCKER.md)     |
-| Kubernetes | [Link](./DevOps/KUBERNETES.md) |
-| Jenkins    | [Link](./DevOps/JENKINS.md)    |
-
-**[⬆ Back to Index](#index-books)**
-
-## Digital Marketing :camera:
-
-| Domain            | Link                                     |
-| ----------------- | ---------------------------------------- |
-| Digital Marketing | [Link](./Marketing/DIGITAL-MARKETING.md) |
-
-**[⬆ Back to Index](#index-books)**
 
 ## Frontend :desktop_computer:
 
@@ -130,36 +42,16 @@
 
 **[⬆ Back to Index](#index-books)**
 
-## IoT :globe_with_meridians:
+## Backend :gear:
 
-| Domain | Link                 |
-| ------ | -------------------- |
-| IoT    | [Link](./IoT/IOT.md) |
-
-**[⬆ Back to Index](#index-books)**
-
-## Machine Learning :orange_book:
-
-| Domain | Link                             |
-| ------ | -------------------------------- |
-| ML     | [Link](./ML/MACHINE_LEARNING.md) |
-| DL     | [Link](./ML/DEEP_LEARNING.md)    |
-
-**[⬆ Back to Index](#index-books)**
-
-## Operating Systems :cd:
-
-| Domain            | Link                                            |
-| ----------------- | ----------------------------------------------- |
-| Operating Systems | [Link](./OperatingSystems/OPERATING-SYSTEMS.md) |
-
-**[⬆ Back to Index](#index-books)**
-
-## Security :white_check_mark:
-
-| Domain   | Link                           |
-| -------- | ------------------------------ |
-| Security | [Link](./Security/SECURITY.md) |
+| Domain   | Link                          |
+| -------- | ----------------------------- |
+| NodeJS   | [Link](./Backend/NODEJS.md)   |
+| Django   | [Link](./Backend/DJANGO.md)   |
+| Deno     | [Link](./Backend/DENO.md)     |
+| Firebase | [Link](./Backend/FIREBASE.md) |
+| Flask    | [Link](./Backend/FLASK.md)    |
+| GraphQL  | [Link](./Backend/GRAPHQL.md)    |
 
 **[⬆ Back to Index](#index-books)**
 
@@ -172,6 +64,26 @@
 
 **[⬆ Back to Index](#index-books)**
 
+## CC & DSA :computer:
+
+| Domain             | Link                               |
+| ------------------ | ---------------------------------- |
+| Competitive Coding | [Link](./CC_and_DSA/COMPETITIVE-CODING.md) |
+| DSA                | [Link](./CC_and_DSA/DSA.md)                |
+
+**[⬆ Back to Index](#index-books)**
+
+## DevOps :loop:
+
+| Domain     | Link                           |
+| ---------- | ------------------------------ |
+| Ansible    | [Link](./DevOps/ANSIBLE.md)    |
+| Docker     | [Link](./DevOps/DOCKER.md)     |
+| Kubernetes | [Link](./DevOps/KUBERNETES.md) |
+| Jenkins    | [Link](./DevOps/JENKINS.md)    |
+
+**[⬆ Back to Index](#index-books)**
+
 ## Web Automation :robot:
 
 | Domain     | Link                           |
@@ -180,6 +92,91 @@
 
 **[⬆ Back to Index](#index-books)**
 
+## Blockchain :link:
+
+| Domain     | Link                               |
+| ---------- | ---------------------------------- |
+| Blockchain | [Link](./Blockchain/BLOCKCHAIN.md) |
+
+**[⬆ Back to Index](#index-books)**
+
+## Cloud Computing :cloud:
+
+| Domain | Link                               |
+| ------ | ---------------------------------- |
+| AWS    | [Link](./CloudComputing/AWS.md)    |
+| GCP    | [Link](./CloudComputing/GCP.md)    |
+| Azure  | [Link](./CloudComputing/AZURE.md)  |
+| Heroku | [Link](./CloudComputing/HEROKU.md) |
+| DigitalOcean | [Link](./CloudComputing/DIGITALOCEAN.md) |
+
+**[⬆ Back to Index](#index-books)**
+
+## Machine Learning :orange_book:
+
+| Domain | Link                             |
+| ------ | -------------------------------- |
+| ML     | [Link](./ML/MACHINE_LEARNING.md) |
+| DL     | [Link](./ML/DEEP_LEARNING.md)    |
+
+**[⬆ Back to Index](#index-books)**
+
+## Security :white_check_mark:
+
+| Domain   | Link                           |
+| -------- | ------------------------------ |
+| Security | [Link](./Security/SECURITY.md) |
+
+**[⬆ Back to Index](#index-books)**
+
+## IoT :globe_with_meridians:
+
+| Domain | Link                 |
+| ------ | -------------------- |
+| IoT    | [Link](./IoT/IOT.md) |
+
+**[⬆ Back to Index](#index-books)**
+
+## Design :art:
+
+| Domain         | Link                             |
+| -------------- | -------------------------------- |
+| UI/UX          | [Link](./Design/UI-UX.md)        |
+| Graphic Design | [Link](./Design/GRAPHIC.md)      |
+| Video Design   | [Link](./Design/VIDEO-DESIGN.md) |
+
+**[⬆ Back to Index](#index-books)**
+
+## Digital Marketing :camera:
+
+| Domain            | Link                                     |
+| ----------------- | ---------------------------------------- |
+| Digital Marketing | [Link](./Marketing/DIGITAL-MARKETING.md) |
+
+
+## Operating Systems :cd:
+
+| Domain            | Link                                            |
+| ----------------- | ----------------------------------------------- |
+| Operating Systems | [Link](./OperatingSystems/OPERATING-SYSTEMS.md) |
+
+**[⬆ Back to Index](#index-books)**
+
+## Big Data :bar_chart:
+
+| Domain            | Link                                            |
+| ----------------- | ----------------------------------------------- |
+| Big Data | [Link](./Big-Data/BIG-DATA.md) |
+
+**[⬆ Back to Index](#index-books)**
+
+## OOPS ⚙️
+
+| Domain            | Link                                            |
+| ----------------- | ----------------------------------------------- |
+| OOPS | [Link](./OOPS/oops-resources.md) |
+
+**[⬆ Back to Index](#index-books)**
 
 <hr>
 
