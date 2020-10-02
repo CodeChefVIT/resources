@@ -10,21 +10,21 @@
 
 ## Index :books:
 
-* [Frontend :desktop_computer:](#frontend-desktop_computer)
 * [Backend :gear:](#backend-gear)
-* [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
-* [CC & DSA :computer:](#cc--dsa-computer)
-* [DevOps :loop:](#devops-loop)
-* [Web Automation :robot:](#web-automation-robot)
+* [Big Data :bar_chart:](#big-data-bar-chart)
 * [Blockchain :link:](#blockchain-link)
 * [Cloud Computing :cloud:](#cloud-computing-cloud)
-* [Machine Learning :orange_book:](#machine-learning-orange_book)
-* [Security :white_check_mark:](#security-white_check_mark)
-* [IoT :globe_with_meridians:](#iot-globe_with_meridians)
+* [CC & DSA :computer:](#cc--dsa-computer)
 * [Design :art:](#design-art)
+* [DevOps :loop:](#devops-loop)
 * [Digital Marketing :camera:](#digital-marketing-camera)
+* [Frontend :desktop_computer:](#frontend-desktop_computer)
+* [IoT :globe_with_meridians:](#iot-globe_with_meridians)
+* [Machine Learning :orange_book:](#machine-learning-orange_book)
 * [Operating Systems :cd:](#operating-systems-cd)
-* [Big Data :bar_chart:](#big-data-bar-chart)
+* [Security :white_check_mark:](#security-white_check_mark)
+* [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
+* [Web Automation :robot:](#web-automation-robot)
 
 ## Frontend :desktop_computer:
 
