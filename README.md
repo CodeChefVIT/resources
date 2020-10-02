@@ -25,6 +25,7 @@
 * [Digital Marketing :camera:](#digital-marketing-camera)
 * [Operating Systems :cd:](#operating-systems-cd)
 * [Big Data :bar_chart:](#big-data-bar-chart)
+* [DBMS :clipboard:](#dbms-clipboard)
 
 ## Frontend :desktop_computer:
 
@@ -165,11 +166,11 @@
 
 | Domain            | Link                                            |
 | ----------------- | ----------------------------------------------- |
-| Big Data | [Link](./Big-Data/BIG-DATA.md) |
+| Big Data          | [Link](./Big-Data/BIG-DATA.md) |
 
 **[⬆ Back to Index](#index-books)**
 
-## DBMS :cd:
+## DBMS :clipboard:
 
 | Domain            | Link                                            |
 | ----------------- | ----------------------------------------------- |
