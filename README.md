@@ -15,7 +15,7 @@
 * [Blockchain :link:](#blockchain-link)
 * [CC & DSA :computer:](#cc--dsa-computer)
 * [Cloud Computing :cloud:](#cloud-computing-cloud)
-* [DBMS :computer:](#DBMS-bookmark_tabs)
+* [DBMS :bookmark_tabs:](#DBMS-bookmark_tabs)
 * [Design :art:](#design-art)
 * [DevOps :loop:](#devops-loop)
 * [Digital Marketing :camera:](#digital-marketing-camera)
