@@ -35,6 +35,7 @@
 | NodeJS   | [Link](./Backend/NODEJS.md)   |
 | Django   | [Link](./Backend/DJANGO.md)   |
 | Deno     | [Link](./Backend/DENO.md)     |
+| Go       | [Link](./Backend/Go.md)       |
 | Firebase | [Link](./Backend/FIREBASE.md) |
 | Flask    | [Link](./Backend/FLASK.md)    |
 | GraphQL  | [Link](./Backend/GRAPHQL.md)    |
