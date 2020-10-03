@@ -1,7 +1,7 @@
 # DataBase Management Systems
 <p  align="center"><img  height="150"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHbAKALovLA39x1e2bU8_WCj9OBXv-ZrDiSA&usqp=CAU" alt="DBMS_image"></p>
 
-Database management system is a software which is used to manage the database. For example: MySQL, Oracle, etc
+Database management system is a software which is used to manage the database. For example: SQL,MySQL etc
 ## Recommended  Books and Talks
 
 ### Courses
