@@ -1,5 +1,8 @@
 # Big Data Resources
 
+<p  align="center"><img  height="150"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNAOAmpm57nlAuQO_rHKtArmAc-E1sORrlKA&usqp=CAU" alt="big data image"></p>
+
+Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. 
 
 ## Basics
 * [The Four V's of Big Data (IBM)](https://www.ibmbigdatahub.com/infographic/four-vs-big-data)
