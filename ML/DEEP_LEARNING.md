@@ -11,8 +11,10 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [TensorFlow for Beginners](https://www.eduonix.com/tensorflow-for-beginners)
 - [CNN for Computer Vision with Keras and TensorFlow in Python](https://www.eduonix.com/cnn-for-computer-vision-with-keras-and-tensorflow-in-python)
+- [Course by Yann Lecunn on Deep Learning taught at NYU](http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 
-## Courses & Videos
+- [Course Specifically designed for DEEP LEARNING FOR NLP](http://cs224d.stanford.edu/)
+## Videos lectures
 
 - [This lecture series has very good introduction to Neural Network and Deep Learning](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
@@ -20,9 +22,6 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [Deep Learning Lectures from Oxford University](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
-- [This is a short book on Deep Learning written by Yoshua Bengio](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
-
-- [This is holy bible on Deep Learning. This web page has a book draft written by Yoshua Bengio and Ian Goodfellow. Later person is author of Theano library.](http://www.deeplearningbook.org/ )
 
 - [Deep Learning for Vision by Stanford](http://cs231n.stanford.edu/)
 
@@ -30,9 +29,6 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [Video Lectures by the GodFather Geoffrey Hinton on	introduction to Deep Learning and some advanced concepts too.](http://videolectures.net/geoffrey_e_hinton/ )
 
-- [Reading resources](http://deeplearning.net/reading-list/)
-
-- [Reading list by Hinton](http://www.cs.toronto.edu/~hinton/csc2515/deeprefs.html)
 
 - [Intro to Energy based model by Yann Lecunn.](http://videolectures.net/mlss05us_lecun_ebmli/ )
 
@@ -44,24 +40,27 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [Lecture series for DL & NLP with some practical guidelines](https://www.youtube.com/watch?v=AmG4jzmBZ88)
 
+
+- [TOPIC COURSE IN DEEP LEARNING by Joan Brune, UC Berkley Stats Department](http://joanbruna.github.io/stat212b/)
+
+## Blogs & Reading material
+- [Reading resources](http://deeplearning.net/reading-list/)
+
+- [Reading list by Hinton](http://www.cs.toronto.edu/~hinton/csc2515/deeprefs.html)
+
+- [Short notes on backpropagation and word embeddings](http://cs224d.stanford.edu/lectures/CS224d-Lecture11.pdf)
+
 - [Blogpost on some DL applications](https://blog.wtf.sg/2014/08/24/nlp-with-neural-networks/ )
 
 - [Some useful tricks for training Neural Networks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 
-- [Short notes on backpropagation and word embeddings](http://cs224d.stanford.edu/lectures/CS224d-Lecture11.pdf)
-
-- [A course by Yann Lecunn on Deep Learning taught at NYU](http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start)
-
-- [Course Specifically designed for DEEP LEARNING FOR NLP](http://cs224d.stanford.edu/)
-
 - [NLP using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/#.VPYhS2vB09E.reddit)
 
-- [Natural Language Understanding with Distributed Representations](http://www.kyunghyuncho.me/home/courses/ds-ga-3001-fall-2015 )
+- [This is a short book on Deep Learning written by Yoshua Bengio](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
+
+- [This is holy bible on Deep Learning. This web page has a book draft written by Yoshua Bengio and Ian Goodfellow. Later person is author of Theano library.](http://www.deeplearningbook.org/ )
 
 - [ENSEMBLING guide. It is Very useful for designing practical ML systems](http://mlwave.com/kaggle-ensembling-guide/ )
-
-- [TOPIC COURSE IN DEEP LEARNING by Joan Brune, UC Berkley Stats Department](http://joanbruna.github.io/stat212b/)
-
 
 # Diving Deep
 
