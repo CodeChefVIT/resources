@@ -11,7 +11,7 @@
 ## Index :books:
 
 * [Backend :gear:](#backend-gear)
-* [Big Data :bar_chart:](#big-data-bar-chart)
+* [Big Data :bar_chart:](#big-data-bar_chart)
 * [Blockchain :link:](#blockchain-link)
 * [CC & DSA :computer:](#cc--dsa-computer)
 * [Cloud Computing :cloud:](#cloud-computing-cloud)

@@ -116,3 +116,7 @@ Big data is a field that treats ways to analyze, systematically extract informat
 * [Big Data on AWS](https://aws.amazon.com/big-data/getting-started/)
 ## Google
 * [Google Cloud](https://cloud.google.com/solutions/big-data/)
+
+<hr>
+
+We hope you now know the roadmap to being proficient in Big Data Analytics :v:
