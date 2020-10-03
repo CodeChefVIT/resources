@@ -11,14 +11,64 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [TensorFlow for Beginners](https://www.eduonix.com/tensorflow-for-beginners)
 - [CNN for Computer Vision with Keras and TensorFlow in Python](https://www.eduonix.com/cnn-for-computer-vision-with-keras-and-tensorflow-in-python)
+- [Course by Yann Lecunn on Deep Learning taught at NYU](http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start)
+
+- [Course Specifically designed for DEEP LEARNING FOR NLP](http://cs224d.stanford.edu/)
+## Videos lectures
+
+- [This lecture series has very good introduction to Neural Network and Deep Learning](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+- [The concepts in this series explained are bit abstract, concepts are hard to understand in first go](https://www.coursera.org/course/neuralnets )
+
+- [Deep Learning Lectures from Oxford University](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+
+
+- [Deep Learning for Vision by Stanford](http://cs231n.stanford.edu/)
+
+- [Video Lectures By Yoshua Bengio on Theoritical Aspects of Deep Learning](http://videolectures.net/yoshua_bengio/ )
+
+- [Video Lectures by the GodFather Geoffrey Hinton on	introduction to Deep Learning and some advanced concepts too.](http://videolectures.net/geoffrey_e_hinton/ )
+
+
+- [Intro to Energy based model by Yann Lecunn.](http://videolectures.net/mlss05us_lecun_ebmli/ )
+
+- [Yoshua Bengio's lecture series recorded in KDD' 14]( http://videolectures.net/kdd2014_bengio_deep_learning/?q=ICLR#)
+
+- [Ronan Collobert lecture (it's quite old new, from 2008 but I think it is still useful)](http://videolectures.net/nips09_collobert_weston_dlnl/[)
+
+- [Lecture series by Chris Manning and Richard Socher given at NAACL 2013](https://www.youtube.com/watch?v=eixGKz0Asr8)
+
+- [Lecture series for DL & NLP with some practical guidelines](https://www.youtube.com/watch?v=AmG4jzmBZ88)
+
+
+- [TOPIC COURSE IN DEEP LEARNING by Joan Brune, UC Berkley Stats Department](http://joanbruna.github.io/stat212b/)
+
+## Blogs & Reading material
+- [Reading resources](http://deeplearning.net/reading-list/)
+
+- [Reading list by Hinton](http://www.cs.toronto.edu/~hinton/csc2515/deeprefs.html)
+
+- [Short notes on backpropagation and word embeddings](http://cs224d.stanford.edu/lectures/CS224d-Lecture11.pdf)
+
+- [Blogpost on some DL applications](https://blog.wtf.sg/2014/08/24/nlp-with-neural-networks/ )
+
+- [Some useful tricks for training Neural Networks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+
+- [NLP using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/#.VPYhS2vB09E.reddit)
+
+- [This is a short book on Deep Learning written by Yoshua Bengio](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
+
+- [This is holy bible on Deep Learning. This web page has a book draft written by Yoshua Bengio and Ian Goodfellow. Later person is author of Theano library.](http://www.deeplearningbook.org/ )
+
+- [ENSEMBLING guide. It is Very useful for designing practical ML systems](http://mlwave.com/kaggle-ensembling-guide/ )
 
 # Diving Deep
 
 ## Topics to Cover
 ```
 * Keras.
-* Nltk. 
-* All methods and techniques mentioned are listed below: 
+* Nltk.
+* All methods and techniques mentioned are listed below:
 ```
 
 ## Deep Learning and NLP :fire:
