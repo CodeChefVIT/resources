@@ -30,3 +30,4 @@
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 
 
+We hope you now know the roadmap to being a professional Database Designer ✌️
