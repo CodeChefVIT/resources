@@ -1,13 +1,13 @@
-## Recommended  Books and Talks
+# Recommended  Books and Talks on DBMS :closed_lock_with_key:
 
-### Courses
+## Courses :eyeglasses:
 
 - [SQL Tutorial: Learn SQL with MySQL Database -Beginner2Expert](https://www.udemy.com/course/sql-tutorial-learn-sql-with-mysql-database-beginner2expert/)
 - [SQL for Beginners: Learn SQL using MySQL and Database Design](https://www.udemy.com/course/sql-for-beginners-course/)
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql)
 - [Introduction to Relational Database and SQL](https://www.coursera.org/projects/introduction-to-relational-database-and-sql)
 
-### Books
+## Books :books:
 
 - [Stanford Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
 - [Designing Data-Intensive Applications](http://shop.oreilly.com/product/0636920032175.do), 
@@ -19,12 +19,12 @@
 - [Inside SQLite](https://books.google.com/books/about/Inside_SQLite.html?id=QoxUx8GOjKMC)
 - [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 
-### Talks
+## Talks :speech_balloon:
 
 - [Data Structures and Algorithms for Big Databases](https://people.csail.mit.edu/bradley/BenderKuszmaul-tutorial-xldb12.pdf)
 - [A Journey From A Quick HackTo A High-Reliability Database Engine](https://www.sqlite.org/talks/wroclaw-20090310.pdf)
 
-### Blogs
+## Blogs :pager:
 
 - [How does a relational database work](http://coding-geek.com/how-databases-work)
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
