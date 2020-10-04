@@ -55,3 +55,7 @@ Follow any one of the documentation or course provided above and after you are c
 📌 [Coding Ninjas Blog](https://www.codingninjas.com/blog/2020/07/04/learn-object-oriented-programming-in-c/)<br>
 📌 [Medium article on OOPS](https://medium.com/@harshityadav95/object-oriented-programming-c-d242601be045)<br>
 📌 [Medium Article](https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e)
+
+<hr>
+
+We hope you now know the roadmap to understanding OOPS concepts in depth :v:
