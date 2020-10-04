@@ -22,6 +22,7 @@ Database management system is a software which is used to manage the database. F
 - [Principles of Distributed Database Systems, 4th ed](https://www.amazon.com/dp/3030262529)
 - [Inside SQLite](https://books.google.com/books/about/Inside_SQLite.html?id=QoxUx8GOjKMC)
 - [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [Fundamentals of Database Management Systems](http://auhd.edu.ye/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
 
 ### Talks
 
