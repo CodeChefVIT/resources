@@ -17,7 +17,7 @@ OOPS is a concept that uses entities like Inheritance, Encapsulation, Abstractio
 
 For starting OOPS concepts from basics, understanding each and every sub-part of OOPS, you can follow [this](https://www.udemy.com/course/c-programming-oops-concepts/) crash course video by Udemy.
 
-## Online & Offline Resources teaching about OOPS using c++ : 👈
+## Online & Offline Resources teaching about OOPS using C++ : 👈
 
 * [Documentation from StudyTonight](https://www.studytonight.com/cpp/cpp-and-oops-concepts.php)
 * [Documentation from TutorialsPoint](https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm)
