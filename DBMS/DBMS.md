@@ -1,5 +1,10 @@
 # Recommended  Books and Talks on DBMS :closed_lock_with_key:
 
+<br>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-database-server-computer-icons-clip-art-flat-file-7164401%2F&psig=AOvVaw1-PzpLQO52jcts0tVco8cl&ust=1601876632962000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCajuqemuwCFQAAAAAdAAAAABAD" alt="logo" width="300"/></a>
+</p>
+<br>
+
 ## Courses :eyeglasses:
 
 - [SQL Tutorial: Learn SQL with MySQL Database -Beginner2Expert](https://www.udemy.com/course/sql-tutorial-learn-sql-with-mysql-database-beginner2expert/)
