@@ -10,7 +10,7 @@ Database management system is a software which is used to manage the database. F
 - [SQL for Beginners: Learn SQL using MySQL and Database Design](https://www.udemy.com/course/sql-for-beginners-course/)
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql)
 - [Introduction to Relational Database and SQL](https://www.coursera.org/projects/introduction-to-relational-database-and-sql)
-- [Complete RDBMS AND SQL ORACLE BOOTCAMP MASTER](https://www.udemy.com/course/complete-rdbms-and-sqloracle-bootcamp-master-sqloracle/)
+- [Complete RDBMS and SQL ORACLE bootcamp master](https://www.udemy.com/course/complete-rdbms-and-sqloracle-bootcamp-master-sqloracle/)
 ### Books
 
 - [Stanford Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
