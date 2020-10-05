@@ -1,4 +1,4 @@
-# Cyber Security
+# Website Security
 <br>
 <br>
 Being hacked means that someone (or something) has gained access to your website files without your permission. There are many things a hacker might do once they are inside your website: Steal personal information like client data and credit card details.
