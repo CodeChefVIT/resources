@@ -12,6 +12,7 @@ watch this [here](https://www.youtube.com/watch?v=obZX8oIjia4) to get an idea of
 Sans Seriff
 <br>
 a sans-serif, sans serif, gothic, or simply sans letterform is one that does not have extending features called "serifs" at the end of strokes. For example : Arial , Arciform.
+Use Sans seriff for most of your projects including UI/UX , some fonts to be noted are Montserrat, Roboto and Raleway.
 <br><br>
 Seriff
 <br>
