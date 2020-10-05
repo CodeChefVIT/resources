@@ -6,12 +6,17 @@ Being hacked means that someone (or something) has gained access to your website
 Watch this youtube channel to know all about hacking, it contains information about most of the present ways of hacking and toutorials to hackthebox etc. [zsecurity](https://www.youtube.com/user/zaidsabeeh)
 
 ## Getting Started 
-
+<br>
 Possible ways of hacking a website :
+<br>
 -- Code execution or file upload vulnerability : only allow users to upload files of non executable and secured formats like pdf .
+<br>
 -- Sql injection : check [here](https://www.youtube.com/watch?v=_jKylhJtPmI) and [here](https://www.youtube.com/watch?v=ciNHn38EyRc)
+<br>
 -- Cross site scripting : check [here](https://www.youtube.com/watch?v=L5l9lSnNMxg)
+<br>
 -- hacking the server : This can be done by finding exploits on the open ports of the server on which the website is stored . First do information gathering using tools like nmap and then try finding exploits for the services on the open ports using tools like metasploit.
+<br>
 -- client side attacks : This is the final stage when a hacker can't hack using any of the above methods. check a tutorial [here](https://www.youtube.com/watch?v=wrqexzfPuK8)
-
+<br>
 We hope you that you make your web applications keeping above things in mind :v:
