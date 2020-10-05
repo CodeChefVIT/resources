@@ -30,7 +30,7 @@ Handwritten
 <br>
 These are the fonts which cannot be classified under any of th above fonts since they don't have a fixed way. For example : Trash hand
 <br>
-
+<br><br>
 Some awesome fonts are : Montserrat, Josefine Sans, Raleway, Roboto UI
 all these fonts are available [here](https://fonts.google.com/)
 some great websites for fonts are [fontsquirrel](https://www.fontsquirrel.com/) ,[fontfabric](https://www.fontfabric.com/fonts/) , [Dafonts](https://www.dafont.com/) ,[1001fonts](https://www.1001fonts.com/)
