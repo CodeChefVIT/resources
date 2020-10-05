@@ -40,4 +40,5 @@
 | The Internals of PostgreSQL         | [Link](http://www.interdb.jp/pg/index.html)       |
 
 ___
-We hope this gets you interested in learning DBMS ✌️
+
+We hope this gets you interested in learning more about DBMS ✌️
