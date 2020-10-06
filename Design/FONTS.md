@@ -35,7 +35,7 @@ These are the fonts which cannot be classified under any of th above fonts since
 <br>
 -All these fonts are available [here](https://fonts.google.com/)
 <br>
--Some great websites for fonts are [fontsquirrel](https://www.fontsquirrel.com/) ,[fontfabric](https://www.fontfabric.com/fonts/) , [Dafonts](https://www.dafont.com/) ,[1001fonts](https://www.1001fonts.com/)
+-Some great websites for fonts are (https://www.fontsquirrel.com/) , (https://www.fontfabric.com/fonts/) , (https://www.dafont.com/) , (https://www.1001fonts.com/)
 <br>
 <br>
 
