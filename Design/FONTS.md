@@ -9,24 +9,24 @@ watch this [here](https://www.youtube.com/watch?v=obZX8oIjia4) to get an idea of
 
 ## Types of fonts
 
-Sans Seriff
+### Sans Seriff
 
 a sans-serif, sans serif, gothic, or simply sans letterform is one that does not have extending features called "serifs" at the end of strokes. For example : Arial , Arciform.
 Use Sans seriff for most of your projects including UI/UX , some fonts to be noted are Montserrat, Roboto and Raleway.
 
-Seriff
+### Seriff
 
 a serif (/ˈsɛrɪf/) is a small line or stroke regularly attached to the end of a larger stroke in a letter or symbol within a particular font or family of fonts. For example : Times new roman
 
-Slab-seriff
+### Slab-seriff
 
 a slab serif (also called mechanistic, square serif, antique or Egyptian) typeface is a type of serif typeface characterized by thick, block-like serifs.  For example : Bitter , Aleo
 
-Calligraphic
+### Calligraphic
 
 Calligraphy (from Greek: καλλιγραφία) is a visual art related to writing. It is the design and execution of lettering with a broad-tipped instrument, brush, or other writing instrument.For example : Alex Brush
 
-Handwritten
+### Handwritten
 
 These are the fonts which cannot be classified under any of th above fonts since they don't have a fixed way. For example : Trash hand
 
