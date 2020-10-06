@@ -31,9 +31,13 @@ Handwritten
 These are the fonts which cannot be classified under any of th above fonts since they don't have a fixed way. For example : Trash hand
 <br>
 <br><br>
-Some awesome fonts are : Montserrat, Josefine Sans, Raleway, Roboto UI
-all these fonts are available [here](https://fonts.google.com/)
-some great websites for fonts are [fontsquirrel](https://www.fontsquirrel.com/) ,[fontfabric](https://www.fontfabric.com/fonts/) , [Dafonts](https://www.dafont.com/) ,[1001fonts](https://www.1001fonts.com/)
+-Some awesome fonts are : Montserrat, Josefine Sans, Raleway, Roboto UI
+<br>
+-All these fonts are available [here](https://fonts.google.com/)
+<br>
+-Some great websites for fonts are [fontsquirrel](https://www.fontsquirrel.com/) ,[fontfabric](https://www.fontfabric.com/fonts/) , [Dafonts](https://www.dafont.com/) ,[1001fonts](https://www.1001fonts.com/)
+<br>
+<br>
 
 if you still can't find a font then just google search it
 
