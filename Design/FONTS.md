@@ -33,7 +33,7 @@ These are the fonts which cannot be classified under any of th above fonts since
 <br><br>
 -Some awesome fonts are : Montserrat, Josefine Sans, Raleway, Roboto UI
 <br>
--All these fonts are available [here](https://fonts.google.com/)
+-All these fonts are available (https://fonts.google.com/)
 <br>
 -Some great websites for fonts are (https://www.fontsquirrel.com/) , (https://www.fontfabric.com/fonts/) , (https://www.dafont.com/) , (https://www.1001fonts.com/)
 <br>
