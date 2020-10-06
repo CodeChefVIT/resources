@@ -33,9 +33,9 @@ These are the fonts which cannot be classified under any of th above fonts since
 <br><br>
 -Some awesome fonts are : Montserrat, Josefine Sans, Raleway, Roboto UI
 <br>
--All these fonts are available (https://fonts.google.com/)
+-All these fonts are available [google_fonts](https://fonts.google.com/)
 <br>
--Some great websites for fonts are (https://www.fontsquirrel.com/) , (https://www.fontfabric.com/fonts/) , (https://www.dafont.com/) , (https://www.1001fonts.com/)
+-Some great websites for fonts are [font_squirrel](https://www.fontsquirrel.com/) , [font_fabric](https://www.fontfabric.com/fonts/) , [DaFonts](https://www.dafont.com/) , [1001fonts](https://www.1001fonts.com/)
 <br>
 <br>
 
