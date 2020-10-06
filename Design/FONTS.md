@@ -1,4 +1,4 @@
-# Fonts
+# FONTS
 
 <p align="center"><img  height="190" src="image/fonts.png"></p>
 
