@@ -7,6 +7,13 @@ Graphic design is hollow without good knowledge of fonts, using good fonts is a 
 ## Getting Started
 watch this [here](https://www.youtube.com/watch?v=obZX8oIjia4) to get an idea of what to use when.
 
+## Type facing
+https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+https://visme.co/blog/pairing-fonts/
+https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120
+https://fontjoy.com/
+https://fontpair.co/
+
 ## Types of fonts
 
 ### Sans Seriff
