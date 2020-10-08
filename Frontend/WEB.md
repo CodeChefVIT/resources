@@ -32,7 +32,7 @@ Follow either the reading or video link and cover the following topics in the sa
 |4.|Bootstrap|[Link](https://getbootstrap.com/docs/4.5/getting-started/introduction/)|[Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv)|
 |5.|MaterializeCSS|[Link](https://materializecss.com/getting-started.html)|[Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)|
 |6.|Sass|[Link](https://www.w3schools.com/sass/)|[Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)|
-
+|7.|Other http requests|[Link](https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/)|[Link](https://www.youtube.com/watch?v=1e0O14Eb0us)|
 
 Once you get familiar with a framework, it's very easy to shift to other frameworks since all important features, especially **Grids** are quite similar in all frameworks.
 
