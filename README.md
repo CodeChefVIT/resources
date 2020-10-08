@@ -25,7 +25,7 @@
 * [OOPS :keyboard:](#OOPS-keyboard)
 * [Operating Systems :cd:](#operating-systems-cd)
 * [Security :white_check_mark:](#security-white_check_mark)
-* [SoftwareEngineering :light](#SoftwareEngineering-light)
+* [SoftwareEngineering :bulb:](#SoftwareEngineering-bulb)
 * [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
 * [Web Automation :robot:](#web-automation-robot)
 
@@ -174,7 +174,7 @@
 
 **[⬆ Back to Index](#index-books)**
 
-## SoftwareEngineering :light:
+## SoftwareEngineering :bulb:
 
 | Domain   | Link                           |
 | -------- | ------------------------------ |

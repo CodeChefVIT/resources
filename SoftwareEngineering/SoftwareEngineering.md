@@ -1,6 +1,6 @@
 # SoftwareEngineering 💡 
 <br>
-<p align="center"><img src="https://i.ibb.co/17kPPwK/graphy-computer-software-software-engineering-programmer-technology-png-clip-art.png" height="120"></p>
+<p align="center"><img src="https://i.ibb.co/RCpPrPw/software-engineering-introduction2.png" height="120"></p>
 <br>
 Software is more than just a program code. A program is an executable code, which serves some computational purpose. Software is considered to be collection of executable programming code, associated libraries and documentations. Software, when made for a specific requirement is called software product.
 
@@ -32,14 +32,6 @@ Engineering on the other hand, is all about developing products, using well-defi
 * Introductory Course On Software Engineering - [Click Here](https://www.edx.org/course/software-engineering-introduction)
 
 <hr>
-
-# Practice Questions for OOPS : 💡
-
-* [Geeks for Geeks](https://www.geeksforgeeks.org/oop-concepts-gq/)
-* [Vskills](https://www.vskills.in/practice/c-oop-basics-Test)
-* [Includehelp](https://www.vskills.in/practice/c-oop-basics-Test)
-* [Sanfoundry](https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/)
-* [Edureka](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
 
 ## Why is Software Engineering Important : 💡
 
