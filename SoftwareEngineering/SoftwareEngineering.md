@@ -27,7 +27,7 @@ Engineering on the other hand, is all about developing products, using well-defi
 * [Head First Software Development: A Learner's Companion to Software Development](https://www.amazon.com/exec/obidos/ASIN/0596527357/httpwwwtuto0a-20)
 * [Software Testing: Testing Across the Entire Software Development Life Cycle](https://www.amazon.com/exec/obidos/ASIN/047179371X/httpwwwtuto0a-20)
 * [Human-Centered Software Engineering](https://www.amazon.com/exec/obidos/ASIN/9048170168/httpwwwtuto0a-20)
-* [Fundamentals of Software Engineering](https://www.amazon.in/Fundamentals-Software-Engineering-Rajib-Mall/dp/9388028023/ref=sr_1_2?adgrpid=61770370787&dchild=1&ext_vrnc=hi&gclid=Cj0KCQjw8fr7BRDSARIsAK0Qqr5T1OSxOKj16qZdYnHhDS3zDfgdNiLdgmXK64k0UrvOf8O4Edj7jJUaAsQrEALw_wcB&hvadid=294118818135&hvdev=c&hvlocphy=1007823&hvnetw=g&hvqmt=b&hvrand=6561455418934369109&hvtargid=aud-899312378062%3Akwd-321157394874&hydadcr=25371_1776657&keywords=software+engineer+book&qid=1602161273&sr=8-2&tag=googinhydr1-21)
+* [Fundamentals of Software Engineering By Rajib Mall](https://www.amazon.in/FUNDAMENTALS-SOFTWARE-ENGINEERING-RAJIB-MALL-ebook/dp/B00LPGBVTM)
 
 * Introductory Course On Software Engineering - [Click Here](https://www.edx.org/course/software-engineering-introduction)
 
