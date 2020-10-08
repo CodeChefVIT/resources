@@ -25,7 +25,7 @@
 * [OOPS :keyboard:](#OOPS-keyboard)
 * [Operating Systems :cd:](#operating-systems-cd)
 * [Security :white_check_mark:](#security-white_check_mark)
-* [SoftwareEngineering :bulb](#SoftwareEngineering-bulb)
+* [SoftwareEngineering :light](#SoftwareEngineering-bulb)
 * [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
 * [Web Automation :robot:](#web-automation-robot)
 
@@ -173,6 +173,15 @@
 | Security | [Link](./Security/SECURITY.md) |
 
 **[⬆ Back to Index](#index-books)**
+
+## SoftwareEngineering :light:
+
+| Domain   | Link                           |
+| -------- | ------------------------------ |
+| SoftwareEngineering | [Link](./SoftwareEngineering/SoftwareEngineering.md) |
+
+**[⬆ Back to Index](#index-books)**
+
 
 ## Version Control :arrows_counterclockwise:
 
