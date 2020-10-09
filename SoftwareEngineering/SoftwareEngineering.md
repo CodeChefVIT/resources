@@ -28,8 +28,7 @@ Engineering on the other hand, is all about developing products, using well-defi
 * [Software Testing: Testing Across the Entire Software Development Life Cycle](https://www.amazon.com/exec/obidos/ASIN/047179371X/httpwwwtuto0a-20)
 * [Human-Centered Software Engineering](https://www.amazon.com/exec/obidos/ASIN/9048170168/httpwwwtuto0a-20)
 * [Fundamentals of Software Engineering By Rajib Mall](https://www.amazon.in/FUNDAMENTALS-SOFTWARE-ENGINEERING-RAJIB-MALL-ebook/dp/B00LPGBVTM)
-
-* Introductory Course On Software Engineering - [Click Here](https://www.edx.org/course/software-engineering-introduction)
+* [Introductory Course On Software Engineering](https://www.edx.org/course/software-engineering-introduction)
 
 <hr>
 
