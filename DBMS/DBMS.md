@@ -24,6 +24,7 @@
 | Principles of Distributed Database Systems, 4th ed                                         | [Link](https://www.amazon.com/dp/3030262529)                                    |
 | Inside SQLite                                                                              | [Link](https://books.google.com/books/about/Inside_SQLite.html?id=QoxUx8GOjKMC) |
 | Architecture of a Database System                                                          | [Link](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)                |
+| The Theory of Relational Databases                                                         | [Link](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)                      |
 
 ### Talks 📣
 
