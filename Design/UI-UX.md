@@ -18,6 +18,7 @@ This one course will get you familiar with all tools and tricks related to UI/UX
 - [Librestock - search engine for creative commons licensed photos](https://librestock.com/)
 - [Unsplash - high quality royalty free images](https://unsplash.com/)
 - [Material Design Colors - color picker for material design colors](https://www.materialui.co/colors)
+- [Framer-A very strong Prototyping Tool](https://www.framer.com/)
 
 ### Accessibility
 - [axe Accessibility testing extentions](https://www.deque.com/axe/browser-extensions/)
