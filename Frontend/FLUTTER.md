@@ -3,23 +3,34 @@
 <p align="center"><img src="https://i.ibb.co/7NLMPr0/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" height="120"></p>
 <br>
 
-Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for [mobile](https://flutter.dev/docs), [web](https://flutter.dev/web), and [desktop](https://flutter.dev/desktop) from a single codebase.
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for [mobile](https://flutter.dev/docs), [web](https://flutter.dev/web), and [desktop](https://flutter.dev/desktop) from a single codebase.<br>
+Flutter works with existing code, is used by developers and organizations around the world([examples](https://flutter.dev/showcase)), and is free and open source.
 
-## Key Features
+## Why Flutter?
 
 * **One Codebase, Every Platform**
+* Integration, Flexibility and Scalability Capabilities
 * Fast Development
 * Expressive and Flexible UI
-* Native Performance
+* Native Performance and Internationalised Flutter Libraries
 * Great Range of pre-built Components
+* Huge Widget Library
+* Hot Reload
+
+## Get Flutter SDK
+
+To get the latest verion of Flutter SDK, follow [these](https://flutter.dev/docs/get-started/install) steps.
+
+
 
 ## Basic Crash Course
 
 For starting flutter with basics, setting it up and get an idea about various things, you can follow [this](https://youtu.be/x0uinJvhNxI) crash course video by Academind.
 
-## Complete Udemy Course
+## Complete Courses
 
-For learning deep concepts of flutter and become a flutter expert, you can go with [this](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) paid course by Academind.
+* For learning deep concepts of flutter and become a flutter expert, you can go with [this](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) paid course by Academind.
+* [Complete Flutter App Development Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)  - created in collaboration with the Google Flutter team, covering all the fundamental concepts for Flutter development.
 
 
 
@@ -44,6 +55,16 @@ For learning deep concepts of flutter and become a flutter expert, you can go wi
 |15.|Advanced Custom Clipping|[Link](https://youtu.be/LnUhNTUl3Mc)|
 |16.|Animations|[Link](https://www.youtube.com/watch?v=VFSQeLOP504&list=PLgGjX33Qsw-H3JLhBZv-COWVA7BFDsKYH)|
 |17.|Complex UI|[Link](https://youtu.be/FCyoHclCqc8)|
+
+## Exploring
+
+Here are a few starter apps that you can explore and learn from:
+
+* [Basic Calculator App](https://www.youtube.com/watch?v=eVG5DkPF5x8&t)
+* [Snake Game](https://www.youtube.com/watch?v=cxX16GBitpY&t)
+* [TODO App](https://www.youtube.com/watch?v=M3IwPbjOXmw)
+* [Basic Quiz App](https://www.youtube.com/watch?v=sR3dvBZJ8fg)
+
 
 ## Google is Not Your Friend
 
