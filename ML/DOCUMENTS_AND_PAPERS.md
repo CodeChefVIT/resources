@@ -1,6 +1,9 @@
 # Machine Learning and Deep Learning Documentations/Research Paper and Books
 <br>
 <hr>
+<br>
+<p align="center"><img src="https://www.kindpng.com/picc/m/186-1862572_noun-machine-learning-1927723-ai-logo-png-transparent.png" height="220"></p>
+<br>
 
 - [Adversarial Networks](https://drive.google.com/file/d/199-4nsOyKinuDQNzE953Gc17cvMjdVrA/view?usp=sharing)
 - [Attention is all you need (Attention models)](https://drive.google.com/file/d/1fxcTHvZqGoTi2a7ppvA5L0qZzhZkB6hE/view?usp=sharing)
