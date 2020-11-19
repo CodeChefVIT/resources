@@ -172,4 +172,19 @@ Before getting started, have a look at this site: [CP-Algorithms](https://cp-alg
 
 <hr>
 
+## :pushpin: Binary Indexed Tree (Fenwick Tree)
+
+- [ ] :movie_camera: [Video, for better Understanding and Visualisation(Youtube)](https://youtu.be/CWDQJGaN1gY)
+- [ ] [Blog, with Explanation, Implementation and Practice Problems(CP-Algorithms)](https://cp-algorithms.com/data_structures/fenwick.html)
+
+| ☆   | Problem Link                                                                                     | Finished                  |
+| --- | ------------------------------------------------------------------------------------------------ | ------------------------- |
+| ★☆☆ | [Thor](https://codeforces.com/problemset/problem/704/A)                                           | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Zeros and Ones](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/k-th-bit-faae0e0d/description/)                                           | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Help Ashu](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/description/)                           | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Distinct Digits II](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/distinct-digits-ii-1/description/) | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Micro and Array Function](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/micro-and-array-function/description/)                                                   | <ul> <li> [ ] </li> </ul> |
+
+<hr>
+
 We hope you now know the roadmap to being a professional Competitive Coder :v:
