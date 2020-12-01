@@ -19,7 +19,9 @@ LinkedIn, Accenture, Microsoft, Delivery Hero, Stack and many more Tech Giants.
 
 Microsoft provides a learning path for Azure free of cost. Their documentation consists of everything which is necessary to learn Azure which also includes sandbox based learning using real examples and tasks. 
 
-Link: [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+- Prefer Reading? Check: [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+- Prefer Watching? Check: [Microsoft Azure Fundamentals Certification Course (AZ-900)](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+- Done with the theory? Try it out now!
 
 |S.No.|Topic|
 |----|-----|
