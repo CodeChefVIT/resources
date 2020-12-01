@@ -22,7 +22,8 @@ Google, PayPal, HSBC, The Home Depot, McKesson and many more Tech Giants.
 
 Google Cloud offers an excellent course on Coursera which you can register for free using the financial aid provided by Coursera if you're eligible. This course also includes sandbox based learning using real examples and tasks. 
 
-Link: [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
+- Coursera Course Link: [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
+- [CloudHero Next hands on learning with Qwiklabs](https://go.qwiklabs.com/qwiklabs-free?utm_source=medium&utm_medium=game&utm_campaign=cloudhero)
 
 |S.No.|Topic|
 |----|-----|
@@ -39,12 +40,12 @@ Link: [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.cour
 
 Once you get familiar these, you can very well call yourself a Google Cloud Developer. It's recommended you practice this on a few projects to ensure you understand everything.
 
-
 ## Done? :disappointed_relieved:
 Not yet! Now that you've explored GCP, you can either learn [AWS](./AWS.md) or [Azure](./AZURE.md).
 
 ## I love GCP :heart: What next? 
-You can apply to give an exam and become a Certified Google Cloud Developer [here](https://cloud.google.com/certification/cloud-developer).
+- Try finishing the [Google Cloud Platform Business Professional Accreditation](https://skillshop.exceedlms.com/student/path/7325-google-cloud-platform-business-professional-accreditation) if you feel confident.
+- You can apply to give an exam and become a Certified Google Cloud Developer [here](https://cloud.google.com/certification/cloud-developer).
 
 <hr>
 
