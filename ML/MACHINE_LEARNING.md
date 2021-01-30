@@ -20,16 +20,16 @@ For starting ML from right from basics, setting everything up and getting an ide
 
 ## Topics to Cover
 ```
-* Pandas and Numpy for Data Pre-Processing and Analysis. 
-* Matplotlib and Seaborn for Data Visualization. 
-* Sklearn to implement Machine Learning Models. 
+* Pandas and Numpy for Data Pre-Processing and Analysis.
+* Matplotlib and Seaborn for Data Visualization.
+* Sklearn to implement Machine Learning Models.
 * Error Measurement and Scaling techniques.
-* All methods and techniques mentioned are listed below: 
+* All methods and techniques mentioned are listed below:
 ```
 
 ## Data Preprocessing and Visualization
 1) Pandas :panda_face:
-   - [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+   - [Pandas Tutorial](https://pandas.pydata.org/docs/getting_started/index.html)
    - [Check out this Awesome Repo](https://github.com/wesm/pydata-book)
 2) Numpy
    - [Numpy Tutorial](https://www.guru99.com/numpy-tutorial.html)
@@ -55,7 +55,7 @@ For starting ML from right from basics, setting everything up and getting an ide
       - [Article Explanation](https://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/)
       - [Video Explanation](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&t=21s)
    - KNeighborsClassifier
-      - [Code Explanation](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/) 
+      - [Code Explanation](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
       - [Kneighbors Explained](https://www.youtube.com/watch?v=UqYde-LULfs)
       - [Video Explanation](https://www.youtube.com/watch?v=1i0zu9jHN6U)
    - SVM
@@ -75,7 +75,7 @@ For starting ML from right from basics, setting everything up and getting an ide
    - XGBoost
       - [Article](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
       - [Video example](https://www.youtube.com/watch?v=OtD8wVaFm6E)
-      
+
  2) Prediction Measurements
    - mean_absolute_error
       - [Mean Absolute Error](https://www.statisticshowto.datasciencecentral.com/absolute-error/)
@@ -89,7 +89,7 @@ For starting ML from right from basics, setting everything up and getting an ide
    - RobustScaler
       - [Robust Scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
    - [Difference In Types of Scalers](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
-   
+
  4) Encoding Categorical Data
   -  Differenent types of Encoding Techniques
      - [Explanation](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)
