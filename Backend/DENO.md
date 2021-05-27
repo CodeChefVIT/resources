@@ -25,6 +25,12 @@ For starting with basics, setting it up and get an idea about various things, yo
 
 * [Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
 
+## Complete Chapter-By-Chapter Tutorial :pen:
+
+For a complete chapter-by-chapter Deno tutorial with online editor to improve learning, you can visit the Lyty.dev tutorial website:
+
+* [Deno Tutorial by Chapters](https://lyty.dev/deno/deno-tutorial.html)
+
 ## Complete Udemy Course :book:
 
 For learning deep and clear concepts of Deno, you can refer [this](https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery) paid Udemy course.
