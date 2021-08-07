@@ -192,7 +192,7 @@
 | Domain   | Link                           |
 | -------- | ------------------------------ |
 | Security | [Link](./Security/SECURITY.md) |
-| Web Security | [Link](./Security/WEB-SECURITY.md) |
+| Web Security | [Link](./Security/WEB_SECURITY.md) |
 
 **[⬆ Back to Index](#index-books)**
 
