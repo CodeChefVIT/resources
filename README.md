@@ -37,11 +37,8 @@
 | Amazon Sumerian | [Link](./AugmentedReality/AmazonSumerian.md)   |
 | ARCore          | [Link](./AugmentedReality/ARCore.md)           |
 | ARFoundation    | [Link](./AugmentedReality/ARFoundation.md)     |
-| ARKit           | [Link](./AugmentedReality/ARKit.md)            |
 | Blender         | [Link](./AugmentedReality/Blender.md)          |
-| LensStudio      | [Link](./AugmentedReality/LensStudio.md)       |
-| SparkAR         | [Link](./AugmentedReality/SparkAR.md)          |
-| Vuforia         | [Link](./AugmentedReality/Vuforia.md)          |
+
 
 **[⬆ Back to Index](#index-books)**
 
