@@ -192,6 +192,7 @@
 | Domain   | Link                           |
 | -------- | ------------------------------ |
 | Security | [Link](./Security/SECURITY.md) |
+| Web Security | [Link](./Security/WEBSITE_SECURITY.md) |
 
 **[⬆ Back to Index](#index-books)**
 
@@ -214,5 +215,4 @@
 
 
 <hr>
-
 Please give a :star: to show your support if you like this repository :wink:

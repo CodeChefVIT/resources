@@ -19,4 +19,5 @@ Possible ways of hacking a website :
 
 -- client side attacks : This is the final stage when a hacker can't hack using any of the above methods. check a tutorial [here](https://www.youtube.com/watch?v=wrqexzfPuK8)
 
+***
 We hope you that you make your web applications keeping above things in mind :v:

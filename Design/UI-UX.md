@@ -9,6 +9,8 @@ This one course will get you familiar with all tools and tricks related to UI/UX
 - [Complete UI/UX Tutorial](https://youtu.be/68w2VwalD5w)
 - [Web Design using Figma](https://www.youtube.com/playlist?list=PLERed4ILxkJ0v7VbF-bLnwLj1lz8AansP)
 - [A11Y Project - community-driven effort to make digital accessibility easier](https://www.a11yproject.com/)
+- [Gestalt's Laws and Principles](https://www.usertesting.com/blog/gestalt-principles)
+- [Apple Design System](https://developer.apple.com/design/)
 - [Material Design - design language developed by Google](https://material.io/design)
 - [Fluent Design - design system by Microsoft](https://www.microsoft.com/design/fluent/#/)
 

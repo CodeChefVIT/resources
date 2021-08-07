@@ -38,6 +38,7 @@ Some of the operating systems used for cyber security and ethical hacking purpos
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
 - [Awesome Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)
+- [CTF-Katana](https://github.com/JohnHammond/ctf-katana) – The Swiss Knife for solving CTF Challenges.
 
 ***
 
