@@ -35,6 +35,10 @@
 | Domain   | Link                          |
 | -------- | ----------------------------- |
 | Amazon Sumerian | [Link](./AugmentedReality/AmazonSumerian.md)   |
+| Vuforia         | [Link](./AugmentedReality/Vuforia.md)          |
+| ARKit           | [Link](./AugmentedReality/ARkit.md)            |
+| LensStudio      | [Link](./AugmentedReality/LensStudio.md)       |
+| SparkAR         | [Link](./AugmentedReality/SparkAR.md)          |
 | ARCore          | [Link](./AugmentedReality/ARCore.md)           |
 | ARFoundation    | [Link](./AugmentedReality/ARFoundation.md)     |
 | Blender         | [Link](./AugmentedReality/Blender.md)          |
