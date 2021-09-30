@@ -19,5 +19,11 @@ Possible ways of hacking a website :
 
 -- client side attacks : This is the final stage when a hacker can't hack using any of the above methods. check a tutorial [here](https://www.youtube.com/watch?v=wrqexzfPuK8)
 
+#### SQL Injection Cheat sheets
+
+Here is a list of handy SQL Injection Cheat Sheets:
+- [Port Swigger SQL Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+- [NetSparker SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) -- Quite informative
+
 ***
 We hope you that you make your web applications keeping above things in mind :v:
