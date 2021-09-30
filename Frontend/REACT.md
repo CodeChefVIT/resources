@@ -61,7 +61,7 @@ Once you get familiar these, you can very well call yourself a React Developer. 
 |----|-----|
 |1.|[Todo Application](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)|
 |2.|[Weather Application](https://rapidapi.com/blog/weather-app-react/)|
-|3.|[Hangman](https://www.youtube.com/watch?v=jj0W8tYX_q8)|
+|3.|[Hangman ](https://www.youtube.com/watch?v=jj0W8tYX_q8)|
 
 These are some of the projects to get to you started on your React journey.
 
