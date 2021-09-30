@@ -59,8 +59,8 @@ Once you get familiar these, you can very well call yourself a Vue Developer. It
 |S.No.|Projects|
 |----|-----|
 |1.|[Calculator App](https://www.youtube.com/watch?v=m1_ih43p24s)
-|1.|[Todo App](https://www.youtube.com/watch?v=-X2hP9pOVss)
-|1.|[Quiz App](https://www.youtube.com/watch?v=y7dh6NrwlPI)
+|2.|[Todo App](https://www.youtube.com/watch?v=-X2hP9pOVss)
+|3.|[Quiz App](https://www.youtube.com/watch?v=y7dh6NrwlPI)
 
 These are some of the projects to get to you started on your Vue journey.
 
