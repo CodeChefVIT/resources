@@ -63,7 +63,7 @@ Once you get familiar these, you can very well call yourself a React Developer. 
 |2.|[Weather Application](https://rapidapi.com/blog/weather-app-react/)|
 |3.|[Hangman](https://www.youtube.com/watch?v=jj0W8tYX_q8)|
 
-These are some of the projects to get to you started on your react journey
+These are some of the projects to get to you started on your React journey.
 
 ## Done? :disappointed_relieved:
 Not yet! Now that you've explored React, you can either learn [React Native](./REACT-NATIVE.md) or [Flutter](./FLUTTER.md) and start developing mobile apps. 
