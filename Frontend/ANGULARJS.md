@@ -40,6 +40,14 @@ Once you get familiar these, you can very well call yourself an Angular Develope
 |----|-----|
 |1.|[Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc)
 
+## Beginner Friendly Projects to Try :star_struck:
+|S.No.|Projects|
+|----|-----|
+|1.|[Currency Converter](https://www.youtube.com/watch?v=oi86pWgntMk)
+|2.|[Tic Tac Toe](https://www.youtube.com/watch?v=G0bBLvWXBvc)
+|3.|[NotePad Application](https://www.codeproject.com/Articles/1068855/AngularJS-based-Note-Making-App-in-lines-Core)
+
+These are some of the projects to get to you started on your Angular journey.
 
 ## Done? :disappointed_relieved:
 Not yet! Now that you've explored Angular, you can either learn [React](./REACT.md) or [Vue](./VUEJS.md) and master frontend web development. 

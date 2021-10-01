@@ -55,6 +55,14 @@ Once you get familiar these, you can very well call yourself a Vue Developer. It
 |----|-----|
 |1.|[Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc)
 
+## Beginner Friendly Projects to Try :star_struck:
+|S.No.|Projects|
+|----|-----|
+|1.|[Calculator App](https://www.youtube.com/watch?v=m1_ih43p24s)
+|2.|[Todo App](https://www.youtube.com/watch?v=-X2hP9pOVss)
+|3.|[Quiz App](https://www.youtube.com/watch?v=y7dh6NrwlPI)
+
+These are some of the projects to get to you started on your Vue journey.
 
 ## Done? :disappointed_relieved:
 Not yet! Now that you've explored Vue, you can either learn [React](./REACT.md) & master frontend web dev or [Flutter](./FLUTTER.md) to start developing mobile apps. 

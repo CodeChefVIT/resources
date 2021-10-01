@@ -56,6 +56,14 @@ Once you get familiar these, you can very well call yourself a React Developer. 
 |1.|[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)|
 |2.|[Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc)
 
+## Beginner Friendly Projects to Try :star_struck:
+|S.No.|Projects|
+|----|-----|
+|1.|[Todo Application](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)|
+|2.|[Weather Application](https://rapidapi.com/blog/weather-app-react/)|
+|3.|[Hangman ](https://www.youtube.com/watch?v=jj0W8tYX_q8)|
+
+These are some of the projects to get to you started on your React journey.
 
 ## Done? :disappointed_relieved:
 Not yet! Now that you've explored React, you can either learn [React Native](./REACT-NATIVE.md) or [Flutter](./FLUTTER.md) and start developing mobile apps. 
