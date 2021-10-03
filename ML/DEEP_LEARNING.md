@@ -62,6 +62,10 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [ENSEMBLING guide. It is Very useful for designing practical ML systems](http://mlwave.com/kaggle-ensembling-guide/ )
 
+- [Tensorflow.js Train and Deploy machine learning models in the browser.](https://www.educative.io/blog/tensorflow-js-tutorial )
+
+
+
 # Diving Deep
 
 ## Topics to Cover
