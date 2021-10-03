@@ -64,6 +64,7 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [Tensorflow.js Train and Deploy machine learning models in the browser.](https://www.educative.io/blog/tensorflow-js-tutorial )
 
+- [GitHub Copilot ](https://copilot.github.com/)
 
 
 # Diving Deep
@@ -105,3 +106,5 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
   - Stemming
       - [What is Stemming](https://searchenterpriseai.techtarget.com/definition/stemming)
       - [Stemming and Lemmatization](https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8)
+
+
