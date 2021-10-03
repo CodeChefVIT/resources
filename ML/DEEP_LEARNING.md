@@ -64,7 +64,7 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [Tensorflow.js Train and Deploy machine learning models in the browser.](https://www.educative.io/blog/tensorflow-js-tutorial )
 
-- [GitHub Copilot ](https://copilot.github.com/)
+- [GitHub Copilot ](https://tudip.com/blog-post/what-is-github-copilot/)
 
 
 # Diving Deep
