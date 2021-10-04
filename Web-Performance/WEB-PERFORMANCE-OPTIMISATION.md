@@ -23,6 +23,14 @@ Web performance refers to the speed in which web pages are downloaded and displa
 |7.|Reduce redirects, website redirects create additional HTTP requests which negatively impact performance.Only keep redirects which are absolutely necesaary. |
 |8.|Choosing a good and a fast web host to ensure better optimization.  |
 
+## Courses On WPO 
+|S.No.|Course|Link|
+|----|-----|-----|
+|1.|Udacity|[Link](https://www.udacity.com/course/website-performance-optimization--ud884)|
+|2.|Udemy  |[Link](https://www.udemy.com/course/improve-page-load-speed/)|
+|2.|Class Central  |[Link](https://www.classcentral.com/course/udacity-website-performance-optimization-2189)|
+
+
 ## Diving Deep :books:
 
 * [https://www.crazyegg.com/blog/speed-up-your-website/]
@@ -30,12 +38,6 @@ Web performance refers to the speed in which web pages are downloaded and displa
 * [https://www.code23.com/key-benefits-of-a-fast-website-for-online-business/]
 * [https://www.gmrwebteam.com/blog/faster-page-load-time-benefits-website]
 
-## Courses On WPO 
-|S.No.|Course|Link|
-|----|-----|-----|
-|1.|Udacity|[Link](https://www.udacity.com/course/website-performance-optimization--ud884)|
-|2.|Udemy  |[Link](https://www.udemy.com/course/improve-page-load-speed/)|
-|2.|Class Central  |[Link](https://www.classcentral.com/course/udacity-website-performance-optimization-2189)|
 
 <hr>
 
