@@ -5,7 +5,7 @@
 
 Web performance refers to the speed in which web pages are downloaded and displayed on the user's web browser.Web performance also leads to less data travelling across the web, which in turn lowers a website's power consumption and environmental impact. Website performance nowadays has become the top priority, especially in the world full of online competition.
 
-## Why Website Performance Optimisation? :face_with_raised_eyebrow:
+## Why Website Performance Optimisation? :raising_hand:
 - Faster Website
 - Smooth User Experience
 - Increase Visitor Retention
