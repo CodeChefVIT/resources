@@ -29,6 +29,7 @@
 * [Security :white_check_mark:](#security-white_check_mark)
 * [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
 * [Web Automation :robot:](#web-automation-robot)
+* [Web Performance Optimisation :desktop_computer:](#web-performance-optimisation-desktop_computer)
 
   
 ## Augmented Reality :camera:
@@ -214,6 +215,14 @@
 | Domain     | Link                           |
 | ---------- | ------------------------------ |
 | Selenium    | [Link](./Web-Automation/SELENIUM.md)    |
+
+**[⬆ Back to Index](#index-books)**
+
+## Web Performance Optimisation :desktop_computer:
+
+| Domain     | Link                           |
+| ---------- | ------------------------------ |
+| Web Performance Optimisation | [Link](./Web-Performance/WEB-PERFORMANCE_OPTIMISATION.md)    |
 
 **[⬆ Back to Index](#index-books)**
 
