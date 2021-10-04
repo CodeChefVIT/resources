@@ -10,7 +10,7 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 
 - [White Papers](#white-papers)
 
-- [Blockchain Core Concept](#Blockchain Core Concept)
+- [Blockchain Core Concept](#Blockchain-Core-Concept)
 
 - [Books](#Books)
 
