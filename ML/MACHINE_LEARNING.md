@@ -97,3 +97,16 @@ For starting ML from right from basics, setting everything up and getting an ide
  4) Encoding Categorical Data
   -  Differenent types of Encoding Techniques
      - [Explanation](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)
+
+## Beginner Friendly Datasets :star_struck:
+
+While learning, it is always recommended to implement your knowledge practically. So, these are some project ideas to help you through this process.
+
+|S.No.|Title|
+|----|-----|
+|1.|[Titanic Dataset](https://www.kaggle.com/c/titanic)|
+|2.|[Brooklyn Home Sales](https://www.kaggle.com/tianhwu/brooklynhomes2003to2017)|
+|3.|[IBM HR Analytics](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)|
+|4.|[Life Expectancy (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)|
+|5.|[New York City Airbnb](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)|
+

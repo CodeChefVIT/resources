@@ -40,15 +40,17 @@ These are the basics for getting started with React Native. The recommended Udem
 - [This very cool website](http://www.reactnativeexpress.com/) that goes through all the basic with interactive code
 - [Harvard University's CS50 Mobile Development with React Native course](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 
-## Cool Project ideas :muscle:
+## Beginner Friendly Projects to Try :star_struck:
 
 While learning, it is always recommended to implement your knowledge practically. So, these are some project ideas to help you through this process.
 
-- ToDo App
-- Expense Tracker App
-- Recipes App
-- Radio/Music App
-- Instagram clone (complete this with a backend if you are feeling confident)
+|S.No.|Projects|
+|----|-----|
+|1.|[ToDo App](https://www.youtube.com/playlist?list=PLYBvEAka-q1hJuwRPYQPlEBBRm7_qGw_2)|
+|2.|[Expense Tracker App](https://www.youtube.com/playlist?list=PLr5IOV1YXoFXufIk1q1pRkI0LbnpF1EV9)|
+|3.|[Recipes App](https://www.youtube.com/watch?v=W-Oqe8Ph_eM)|
+|4.|[Music App](https://youtube.com/playlist?list=PL-m7mdFY8Whfkgy9sPPg6feLDQ7bmDYig)|
+|5.|[Quiz App](https://www.youtube.com/watch?v=85TYivlkuiA)|
 
 ## Done? :disappointed_relieved:
 If you have gone through the resources faithfully and completed some projects, give yourself a pat on the back. You can now call yourself a React Native developer.
