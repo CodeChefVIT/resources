@@ -68,7 +68,7 @@ Here are a few starter apps that you can explore and learn from:
 
 ## Google is Not Your Friend
 
-Just Kidding! Google is indeed your friend but for flutter developers, there is a better platform - [pub.dev](). You can great range of pre-built packages and plugins which can be used in your code to make your work easy. 
+Just Kidding! Google is indeed your friend but for flutter developers, there is a better platform - [pub.dev](https://pub.dev/). You can great range of pre-built packages and plugins which can be used in your code to make your work easy. 
 
 Whatever design you wanna make or any functionality you wanna implement which seems difficult will surely be possible using this.
 
