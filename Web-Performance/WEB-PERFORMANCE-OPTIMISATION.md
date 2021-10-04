@@ -25,8 +25,6 @@ Web performance refers to the speed in which web pages are downloaded and displa
 
 ## Diving Deep :books:
 
-### Blogs
-
 * [https://www.crazyegg.com/blog/speed-up-your-website/]
 * [https://kinsta.com/learn/page-speed/]
 * [https://www.code23.com/key-benefits-of-a-fast-website-for-online-business/]
