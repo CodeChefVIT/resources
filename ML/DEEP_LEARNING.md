@@ -92,6 +92,7 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
       - [Intro to Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
       - [What is Adam](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
   - KerasClassifier
+  - Project to try out: [Rock Paper Scissors game](https://www.youtube.com/watch?v=0uSA3xyXlwM)
 
 2) Nltk
   - [What is Nltk](https://www.nltk.org/)
@@ -106,5 +107,9 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
   - Stemming
       - [What is Stemming](https://searchenterpriseai.techtarget.com/definition/stemming)
       - [Stemming and Lemmatization](https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8)
+  - Project to try out: [Chat Bot](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
+      
+
+
 
 

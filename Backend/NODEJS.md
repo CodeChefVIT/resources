@@ -61,6 +61,18 @@ For learning deep and clear concepts of node js, you can go with [this](https://
 ## Done? :disappointed_relieved:
 Not yet! Now that you've explored Node, you can either learn [Django](./DJANGO.md) or [Deno](./DENO.md) and master other Backend frameworks.
 
+## Beginner Friendly Projects to Try :star_struck:
+
+While learning, it is always recommended to implement your knowledge practically. So, these are some project ideas to help you through this process.
+
+|S.No.|Projects|
+|----|-----|
+|1.|[ToDo App](https://www.youtube.com/playlist?list=PLVRD5onwuyGAH2ZUquy5OkexxByzGUZ0G)|
+|2.|[Chat App](https://www.youtube.com/watch?v=jD7FnbI76Hg)|
+|3.|[Zoom Clone (Slightly advanced)](https://www.youtube.com/watch?v=ZVznzY7EjuY)|
+
+
+
 <hr>
 
 We hope you now know the roadmap to being a professional Node.js Developer :v:

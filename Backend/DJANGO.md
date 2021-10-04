@@ -52,6 +52,18 @@ Follow either the [Official Docs](https://www.django-rest-framework.org/) or [Ed
 Once you get familiar these, you can very well call yourself a Django Developer. It's recommended you practice this on a few projects to ensure you understand everything.
 
 
+## Beginner Friendly Projects to Try :star_struck:
+
+While learning, it is always recommended to implement your knowledge practically. So, these are some project ideas to help you through this process.
+
+|S.No.|Projects|
+|----|-----|
+|1.|[ToDo App](https://www.youtube.com/watch?v=4RWFvXDUmjo)|
+|2.|[Chat App](https://www.youtube.com/watch?v=IpAk1Eu52GU)|
+|3.|[Quiz App](https://www.youtube.com/playlist?list=PLgjw1dR712jrkldk1GFPQkPsp1RsZ3K1u)|
+
+
+
 ## Done? :disappointed_relieved:
 Not yet! Now that you've learned the basics of Django Rest Framework, you can now try to integrate some packages to your Django Project for User Auntentication.
 
@@ -63,6 +75,8 @@ Not yet! Now that you've learned the basics of Django Rest Framework, you can no
 
 ## Time to Deploy :muscle:
 Built your Project? Now try to deploy it on Heroku reading their [Docs](https://devcenter.heroku.com/categories/working-with-django)!
+
+
 
 <hr>
 
