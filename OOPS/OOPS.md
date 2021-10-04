@@ -6,12 +6,13 @@ OOPS is a concept that uses entities like Inheritance, Encapsulation, Abstractio
 
 ## Major Topic Under OOPS : 👈
 
-* Class
-* Objects
-* Encapsulation
-* Abstraction
-* Polymorphism
-* Inheritance
+| S. No. | Topics                | Link                                                              |
+| ------ | --------------------- | ----------------------------------------------------------------- |
+| 1.     | Class & Objects       | [Link](https://www.guru99.com/java-oops-class-objects.html)       |
+| 2.     | Encapsulation         | [Link](https://www.guru99.com/java-oops-encapsulation.html)       |
+| 3.     | Abstraction           | [Link](https://www.guru99.com/java-data-abstraction.html)         |
+| 4.     | Polymorphism          | [Link](https://www.guru99.com/java-inheritance-polymorphism.html) |
+| 5.     | Inheritance           | [Link](https://www.guru99.com/java-class-inheritance.html)        |
 
 ## Basic Crash Course : 👈
 
