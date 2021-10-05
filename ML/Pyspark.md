@@ -17,6 +17,5 @@ PySpark is an interface for Apache Spark in Python. It not only allows you to wr
 # Diving Deep
 
 - [PySpark tutorial](https://www.tutorialspoint.com/pyspark/index.htm)
-
-
+- [Pyspark tutorial 2](https://www.javatpoint.com/pyspark)
 
