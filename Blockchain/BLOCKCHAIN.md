@@ -10,6 +10,10 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 
 - [White Papers](#white-papers)
 
+- [Blockchain Core Concept](#Blockchain-Core-Concept)
+
+- [Books](#Books)
+
 - [Talks](#talks)
 
 - [Solidity](#solidity)
@@ -51,6 +55,24 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 - [BlockChain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California, Berkeley
 
 - [An Architecture for the Internet of Money](https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub) - Meher Roy
+
+### Blockchain Core Concept
+
+- [Blockchain Architecture](https://www.mdpi.com/2073-8994/11/10/1198/htm)
+
+- [Key Concept for Blockchain Development](https://www.leewayhertz.com/blockchain-development-key-concepts/)
+
+- [Blockchain Explained](https://www.marcopolonetwork.com/resources/essential-blockchain-technology-concepts/)
+
+### Books
+
+- [Mastering Blockchain By Imran Bashir](https://www.packtpub.com/product/mastering-blockchain-third-edition/9781839213199)
+
+- [Mastring Ethereum](https://github.com/ethereumbook/ethereumbook)
+
+- [Blockchain Revolution](https://www.amazon.in/Blockchain-Revolution-Don-Tapscott/dp/0241237858)
+
+- [Blockchain for Enterprise Application Developers](https://www.wileyindia.com/blockchain-for-enterprise-application-developers.html)  
 
 ### Talks
 
@@ -98,6 +120,8 @@ Solidity is the most popular language on Ethereum, inspired by C++, Python, and 
 
 - [Solidity](https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html)
 
+- [Solidity Learn Latest Version](https://www.youtube.com/watch?v=NqGe942J4Y0)
+
 ### Ethereum
 
 Ethereum is an open-source, blockchain-based, decentralized software platform used for its own cryptocurrency, ether. It enables SmartContracts and Distributed Applications (DApps) to be built and run without any downtime, fraud, control, or interference from a third party.
@@ -115,6 +139,8 @@ Ethereum is an open-source, blockchain-based, decentralized software platform us
 - [Course on Coursera](https://www.coursera.org/learn/blockchain-basics)
 
 - [Ethereum 101, Parts: 1-7](https://kauri.io/ethereum-101/5bb65f0f4f34080001731dc2/c)
+
+- [Blockchain for python developer] (https://youtu.be/M576WGiDBdQ?t=2)
 
 ## Ethereum Set-up
 
