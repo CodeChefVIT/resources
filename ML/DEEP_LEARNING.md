@@ -108,8 +108,9 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
       - [How to implement StopWords](https://pythonspot.com/nltk-stop-words/)
   - PunktSentenceTokenizer
       - [PunktSentenceTokenizer](https://pythonprogramming.net/part-of-speech-tagging-nltk-tutorial/)
-  - Stemming
+  - Stemming and Lemmatization
       - [What is Stemming](https://searchenterpriseai.techtarget.com/definition/stemming)
+      - [What is Lemmatization](https://www.geeksforgeeks.org/python-lemmatization-with-nltk/)
       - [Stemming and Lemmatization](https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8)
   - Project to try out: [Chat Bot](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
       
