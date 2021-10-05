@@ -172,6 +172,7 @@
 | ML     | [Link](./ML/MACHINE_LEARNING.md) |
 | DL     | [Link](./ML/DEEP_LEARNING.md)    |
 | Research (ML+DL) | [Link](./ML/DOCUMENTS_AND_PAPERS.md) |
+| OpenCV     | [Link](./ML/OpenCV.md)    |
 
 **[⬆ Back to Index](#index-books)**
 
