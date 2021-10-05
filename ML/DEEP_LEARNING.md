@@ -68,6 +68,8 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [GitHub Copilot ](https://tudip.com/blog-post/what-is-github-copilot/)
 
+- [PyTorch. Efficient Framework for implementing Neural Networks](https://www.fireblazeaischool.in/blogs/a-beginners-guide-to-pytorch/)
+
 
 # Diving Deep
 
