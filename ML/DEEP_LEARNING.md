@@ -14,6 +14,8 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 - [Course by Yann Lecunn on Deep Learning taught at NYU](http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 
 - [Course Specifically designed for DEEP LEARNING FOR NLP](http://cs224d.stanford.edu/)
+
+- [PyTorch for Beginners](https://www.edx.org/course/deep-learning-with-python-and-pytorch)
 ## Videos lectures
 
 - [This lecture series has very good introduction to Neural Network and Deep Learning](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
