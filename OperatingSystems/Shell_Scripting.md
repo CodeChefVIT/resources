@@ -13,10 +13,6 @@ A bash (or shell) script is basically a program that allows the user to interact
 - [Good Video lecture about bash](https://youtu.be/oxuRxtrO2Ag)
 - [Beginer friendly lecture on shell](https://youtu.be/8c1BL5b47kg)
 
-## Documentation
-
-- Documentation can be found [here](http://spark.apache.org/docs/latest/api/python/)
-
 # Diving Deep
 
 - [Shell programming tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
