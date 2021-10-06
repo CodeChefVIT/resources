@@ -16,6 +16,6 @@ A bash (or shell) script is basically a program that allows the user to interact
 # Diving Deep
 
 - [Shell programming tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
-- [Shell programming 2](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
+- [Shell programming tutorial 2](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
 - One can practice shell programming on coding platforms such as [Hackerrank](https://www.hackerrank.com/)
 
