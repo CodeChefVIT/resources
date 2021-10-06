@@ -1,4 +1,4 @@
-# PySpark
+# Shell Scripting
 <br>
 
 A shell script is a text file that contains a sequence of commands for a UNIX-based operating system. A shell script is usually created for command sequences in which a user has a need to use repeatedly in order to save time.
