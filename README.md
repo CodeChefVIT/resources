@@ -191,6 +191,7 @@
 | Domain            | Link                                            |
 | ----------------- | ----------------------------------------------- |
 | Operating Systems | [Link](./OperatingSystems/OPERATING-SYSTEMS.md) |
+| Shell Scripting | [Link](./OperatingSystems/Shell_Scripting.md) |
 
 **[⬆ Back to Index](#index-books)**
 
