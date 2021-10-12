@@ -153,6 +153,7 @@
 ## Game Development :video_game:
 | Domain         | Link                                 |
 | -------------- | ------------------------------------ |
+| Pygame          | [Link](./GameDevelopment/Pygame.md)   |
 | Unity          | [Link](./GameDevelopment/Unity.md)   |
 | Unreal         | [Link](./GameDevelopment/Unreal.md)  |
 
@@ -173,6 +174,8 @@
 | ML     | [Link](./ML/MACHINE_LEARNING.md) |
 | DL     | [Link](./ML/DEEP_LEARNING.md)    |
 | Research (ML+DL) | [Link](./ML/DOCUMENTS_AND_PAPERS.md) |
+| OpenCV     | [Link](./ML/OpenCV.md)    |
+| PySpark     | [Link](./ML/Pyspark.md)    |
 
 **[⬆ Back to Index](#index-books)**
 
@@ -189,6 +192,7 @@
 | Domain            | Link                                            |
 | ----------------- | ----------------------------------------------- |
 | Operating Systems | [Link](./OperatingSystems/OPERATING-SYSTEMS.md) |
+| Shell Scripting | [Link](./OperatingSystems/Shell_Scripting.md) |
 
 **[⬆ Back to Index](#index-books)**
 
