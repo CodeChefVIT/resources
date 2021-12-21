@@ -14,6 +14,8 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 - [Course by Yann Lecunn on Deep Learning taught at NYU](http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 
 - [Course Specifically designed for DEEP LEARNING FOR NLP](http://cs224d.stanford.edu/)
+
+- [PyTorch for Beginners](https://www.edx.org/course/deep-learning-with-python-and-pytorch)
 ## Videos lectures
 
 - [This lecture series has very good introduction to Neural Network and Deep Learning](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -66,6 +68,8 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [GitHub Copilot ](https://tudip.com/blog-post/what-is-github-copilot/)
 
+- [PyTorch. Efficient Framework for implementing Neural Networks](https://www.fireblazeaischool.in/blogs/a-beginners-guide-to-pytorch/)
+
 
 # Diving Deep
 
@@ -104,8 +108,9 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
       - [How to implement StopWords](https://pythonspot.com/nltk-stop-words/)
   - PunktSentenceTokenizer
       - [PunktSentenceTokenizer](https://pythonprogramming.net/part-of-speech-tagging-nltk-tutorial/)
-  - Stemming
+  - Stemming and Lemmatization
       - [What is Stemming](https://searchenterpriseai.techtarget.com/definition/stemming)
+      - [What is Lemmatization](https://www.geeksforgeeks.org/python-lemmatization-with-nltk/)
       - [Stemming and Lemmatization](https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8)
   - Project to try out: [Chat Bot](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
       
