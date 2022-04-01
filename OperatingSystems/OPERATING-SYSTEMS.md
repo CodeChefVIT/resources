@@ -42,4 +42,4 @@ An Operating System (OS) is an interface between a computer user and computer ha
 
 <hr>
 
-We hope you now know the roadmap to being a professional Digital Marketer :v:
+We hope you now know the roadmap to being a professional systems engineer :v:
