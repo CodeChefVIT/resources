@@ -231,6 +231,15 @@
 
 **[⬆ Back to Index](#index-books)**
 
+## Wordpress :globe_with_meridians:
+
+| Domain     | Link                           |
+| ---------- | ------------------------------ |
+| Blogs | [Link](./Wordpress/Blogs.md)    |
+| Books | [Link](./Wordpress/Books.md)    |
+| Courses | [Link](./Wordpress/Courses.md)    |
+
+**[⬆ Back to Index](#index-books)**
 
 <hr>
 Please give a :star: to show your support if you like this repository :wink:
