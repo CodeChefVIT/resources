@@ -1,7 +1,7 @@
 # GraphQL
 
 <br>
-<p align="center"><img src="https://cdn.svgporn.com/logos/graphql.svg" alt="logo" width="200"/></a>
+<p align="center"><img src="https://cdn.svgporn.com/logos/graphql.svg" alt="logo" width="200"/>
 </p>
 <br>
 GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data. It can be implemented using any server side language eg. Node, Python, Go, Kotlin,etc.
