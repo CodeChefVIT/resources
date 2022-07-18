@@ -12,6 +12,7 @@ Ansible is an open-source software provisioning, configuration management, and a
 - [Why you need to start Ansible Right now](https://www.youtube.com/watch?v=5hycyr-8EKs)
 - [What is Ansible](https://www.youtube.com/watch?v=4nKW2eF-nIw)
 - [One of the Best Channels](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg)
+- [Ansible Tutorial for Beginners: Ultimate Playbook & Examples](https://spacelift.io/blog/ansible-tutorial)
 
 ## Courses :blue_book:
 
