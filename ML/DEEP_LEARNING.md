@@ -70,6 +70,8 @@ Deep Learning is an Artificial Intelligence function that imitates the workings 
 
 - [PyTorch. Efficient Framework for implementing Neural Networks](https://www.fireblazeaischool.in/blogs/a-beginners-guide-to-pytorch/)
 
+- [Deep Learning Tutorial - Scaler Topics](https://www.scaler.com/topics/what-is-deep-learning/)
+
 
 # Diving Deep
 
