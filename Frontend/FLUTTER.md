@@ -25,11 +25,12 @@ To get the latest verion of Flutter SDK, follow [these](https://flutter.dev/docs
 
 ## Basic Crash Course
 
-For starting flutter with basics, setting it up and get an idea about various things, you can follow [this](https://youtu.be/x0uinJvhNxI) crash course video by Academind.
+For starting flutter with basics, setting it up and get an idea about various things, you can follow [this](https://www.youtube.com/watch?v=CD1Y2DmL5JM) crash course video by Flutter Mapp.
 
 ## Complete Courses
 
-* For learning deep concepts of flutter and become a flutter expert, you can go with [this](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) paid course by Academind.
+* For learning deep concepts of flutter and become a flutter expert, you can go with [this](https://www.youtube.com/watch?v=VPvVD8t02U8) free course by 
+freeCodeCamp.org.
 * [Complete Flutter App Development Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)  - created in collaboration with the Google Flutter team, covering all the fundamental concepts for Flutter development.
 
 
