@@ -73,6 +73,10 @@ Flutter and React have really similar State Management. A lot of other things al
 
 You could also explore [VueJS](./VUEJS.md) as it is pretty similar to React.
 
+### Tutorials
+In English(https://youtu.be/bMknfKXIFA8)
+<Br>
+In Hindi(https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
 <hr>
 
 We hope you now know the roadmap to being a professional React Developer :v:
