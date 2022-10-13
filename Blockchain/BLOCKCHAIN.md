@@ -56,6 +56,8 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 
 - [An Architecture for the Internet of Money](https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub) - Meher Roy
 
+- [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) - Vitalik Buterin
+
 ### Blockchain Core Concept
 
 - [Blockchain Architecture](https://www.mdpi.com/2073-8994/11/10/1198/htm)
@@ -63,6 +65,8 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 - [Key Concept for Blockchain Development](https://www.leewayhertz.com/blockchain-development-key-concepts/)
 
 - [Blockchain Explained](https://www.marcopolonetwork.com/resources/essential-blockchain-technology-concepts/)
+
+- [Blockchain Trillema](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3)
 
 ### Books
 
@@ -122,6 +126,8 @@ Solidity is the most popular language on Ethereum, inspired by C++, Python, and 
 
 - [Solidity Learn Latest Version](https://www.youtube.com/watch?v=NqGe942J4Y0)
 
+- [Solidity Course](https://metaschool.so/course/10-days-of-solidity)
+
 ### Ethereum
 
 Ethereum is an open-source, blockchain-based, decentralized software platform used for its own cryptocurrency, ether. It enables SmartContracts and Distributed Applications (DApps) to be built and run without any downtime, fraud, control, or interference from a third party.
@@ -141,6 +147,12 @@ Ethereum is an open-source, blockchain-based, decentralized software platform us
 - [Ethereum 101, Parts: 1-7](https://kauri.io/ethereum-101/5bb65f0f4f34080001731dc2/c)
 
 - [Blockchain for python developer] (https://youtu.be/M576WGiDBdQ?t=2)
+
+- [Bankless Academy](https://app.banklessacademy.com/)
+
+- [BlockTrain](https://www.blocktrain.info/course)
+
+- [EtherWorld](https://etherworld.co/tag/ethereum/)
 
 ## Ethereum Set-up
 
