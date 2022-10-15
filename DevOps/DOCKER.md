@@ -22,6 +22,10 @@ Compose is a tool for defining and running multi-container Docker applications. 
 
 - [Docker Compose Documentation](https://docs.docker.com/compose/)
 
+## Cheatsheet :heart_eyes:
+
+We have made a curated list of Docker commands needed to work with Docker command line interface [here](https://github.com/codechefvit/docker-cheatsheet)
+
 ## Repositories and people to follow :star:
 
 - [Collabnix](https://github.com/ajeetraina/collabnix)
