@@ -50,7 +50,7 @@ freeCodeCamp.org.
 |9.|State Management (Provider)|[Link](https://www.youtube.com/watch?v=O71rYKcxUgA&list=PLNnAcB93JKV-IarNvMKJv85nmr5nyZis8)<br>[Link](https://youtu.be/8II1VPb-neQ)|
 |10.|State Management (BLoC)|[Link](https://www.youtube.com/live/Y1roIi0-Sro?si=zgOTzm543ycuCb2H)<br>[Link](https://youtu.be/ltLJ1AB-eww?si=OAVqKdc4A47-36oX)|
 |11.|Access Camera|[Link](https://youtu.be/ZkpHzbOm-s0)|
-|12.|QR Code Scanner|[Link](https://youtu.be/siuJhQ9BqsU)|
+|12.|QR Code Scanner|[Link](https://youtu.be/622vOT8A1J0)|
 |13.|Image Handling|[Link](https://youtu.be/hV9gY01m61Y)|
 |14.|PDF Viewer|[Link](https://youtu.be/5S9qjreGFNc)|
 |15.|Basic Custom Clipping|[Link](https://youtu.be/fqqY3NBVVHA)|
